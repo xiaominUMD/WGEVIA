@@ -1,0 +1,5 @@
+sed -i 's/^[^,]*[0-9a-z]//' g2v1.csv
+sed -i 's/^[^,]*[0-9a-z]//' g2v2.csv
+sed -i 's/^[^,]*[0-9a-z]//' g2v3.csv
+sed -i 's/^[^,]*[0-9a-z]//' g2v4.csv
+paste g2v0.csv g2v1.csv g2v2.csv g2v3.csv g2v4.csv

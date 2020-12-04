@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12ff14a7-ff0a-40b0-b91e-86eba89c3140" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/combinedFeature.csv" beforeDir="false" afterPath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/combinedFeature.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v0.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v10.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v11.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v12.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v14.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v15.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v16.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v17.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v18.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v19.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v20.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v21.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v22.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v23.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v24.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v25.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v26.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v27.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v28.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v29.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v30.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v31.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v32.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v33.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v34.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v35.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v36.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v37.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v38.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v39.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v7.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v8.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v9.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/exp/g2vBopt.py" beforeDir="false" afterPath="$PROJECT_DIR$/multiChannelGen/exp/g2vBopt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/exp/result/mcsweACC.csv" beforeDir="false" afterPath="$PROJECT_DIR$/multiChannelGen/exp/result/mcsweACC.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/exp/result/runInfo.csv" beforeDir="false" afterPath="$PROJECT_DIR$/multiChannelGen/exp/result/runInfo.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/exp/runtimeRecord/lastLoss.csv" beforeDir="false" afterPath="$PROJECT_DIR$/multiChannelGen/exp/runtimeRecord/lastLoss.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/exp/runtimeRecord/modelSave.csv" beforeDir="false" afterPath="$PROJECT_DIR$/multiChannelGen/exp/runtimeRecord/modelSave.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiChannelGen/src/g2vpre.py" beforeDir="false" afterPath="$PROJECT_DIR$/multiChannelGen/src/g2vpre.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YKFfoRiHvnHJiORnG4y3jyzXLl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python/neuronProj" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/multiChannelGen/src" />
+      <recent name="$PROJECT_DIR$/swg2v" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.g2vpre">
+    <configuration name="g2vBopt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MCSWE1.1-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/multiChannelGen/exp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multiChannelGen/exp/g2vBopt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="g2vpre" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MCSWE1.1-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/multiChannelGen/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multiChannelGen/src/g2vpre.py" />
+      <option name="PARAMETERS" value="1 json 96 2 '2' single" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="topgnn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MCSWE1.1-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/powergnn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/powergnn/topgnn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wsgraph2vec" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MCSWE1.1-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/multiChannelGen/src/swg2v" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multiChannelGen/src/swg2v/wsgraph2vec.py" />
+      <option name="PARAMETERS" value="16 2 $PROJECT_DIR$/multiChannelGen/channels/json0/ $PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v0.csv" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wsgraph2vec" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MCSWE1.1-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swg2v/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swg2v/wsgraph2vec.py" />
+      <option name="PARAMETERS" value="16 2 $PROJECT_DIR$/multiChannelGen/channels/json0/ $PROJECT_DIR$/multiChannelGen/channels/g2vFeatures/g2v0.csv" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.g2vBopt" />
+      <item itemvalue="Python.g2vpre" />
+      <item itemvalue="Python.wsgraph2vec" />
+      <item itemvalue="Python.topgnn" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.g2vpre" />
+        <item itemvalue="Python.topgnn" />
+        <item itemvalue="Python.wsgraph2vec" />
+        <item itemvalue="Python.wsgraph2vec" />
+        <item itemvalue="Python.g2vBopt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12ff14a7-ff0a-40b0-b91e-86eba89c3140" name="Default Changelist" comment="" />
+      <created>1582683484043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582683484043</updated>
+      <workItem from="1582683487369" duration="2424000" />
+      <workItem from="1582712784187" duration="5755000" />
+      <workItem from="1582722177027" duration="8248000" />
+      <workItem from="1582759309521" duration="895000" />
+      <workItem from="1582938907614" duration="5826000" />
+      <workItem from="1583010894682" duration="1343000" />
+      <workItem from="1583071339463" duration="12095000" />
+      <workItem from="1583160984160" duration="3078000" />
+      <workItem from="1583672776427" duration="133000" />
+      <workItem from="1583758820981" duration="2501000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="561" y="396" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583761321990">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="561" y="396" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583761321990" />
+    <state x="731" y="578" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.2493.1413@67.27.2493.1413" timestamp="1583111575683" />
+    <state x="1096" y="490" width="424" height="484" key="FileChooserDialogImpl" timestamp="1583672880390">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="1096" y="490" width="424" height="484" key="FileChooserDialogImpl/67.27.2493.1413@67.27.2493.1413" timestamp="1583672880390" />
+    <state width="1807" height="375" key="GridCell.Tab.0.bottom" timestamp="1583761325446">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="375" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1583761325446" />
+    <state width="2447" height="488" key="GridCell.Tab.0.bottom/67.27.2493.1413@67.27.2493.1413" timestamp="1583116163518" />
+    <state width="1807" height="375" key="GridCell.Tab.0.center" timestamp="1583761325444">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="375" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1583761325444" />
+    <state width="2447" height="488" key="GridCell.Tab.0.center/67.27.2493.1413@67.27.2493.1413" timestamp="1583116163518" />
+    <state width="1807" height="375" key="GridCell.Tab.0.left" timestamp="1583761325443">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="375" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1583761325443" />
+    <state width="2447" height="488" key="GridCell.Tab.0.left/67.27.2493.1413@67.27.2493.1413" timestamp="1583116163517" />
+    <state width="1807" height="375" key="GridCell.Tab.0.right" timestamp="1583761325445">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="375" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1583761325445" />
+    <state width="2447" height="488" key="GridCell.Tab.0.right/67.27.2493.1413@67.27.2493.1413" timestamp="1583116163518" />
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1583760334759">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1583760334759" />
+    <state width="2447" height="488" key="GridCell.Tab.1.bottom/67.27.2493.1413@67.27.2493.1413" timestamp="1583116163518" />
+    <state width="1807" height="344" key="GridCell.Tab.1.center" timestamp="1583760334759">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1583760334759" />
+    <state width="2447" height="488" key="GridCell.Tab.1.center/67.27.2493.1413@67.27.2493.1413" timestamp="1583116163518" />
+    <state width="1807" height="344" key="GridCell.Tab.1.left" timestamp="1583760334759">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1583760334759" />
+    <state width="2447" height="488" key="GridCell.Tab.1.left/67.27.2493.1413@67.27.2493.1413" timestamp="1583116163518" />
+    <state width="1807" height="344" key="GridCell.Tab.1.right" timestamp="1583760334759">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1583760334759" />
+    <state width="2447" height="488" key="GridCell.Tab.1.right/67.27.2493.1413@67.27.2493.1413" timestamp="1583116163518" />
+    <state width="926" height="527" key="XDebugger.FullValuePopup" timestamp="1583760313697">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="926" height="527" key="XDebugger.FullValuePopup/67.27.1853.1053@67.27.1853.1053" timestamp="1583760313697" />
+    <state width="1246" height="708" key="XDebugger.FullValuePopup/67.27.2493.1413@67.27.2493.1413" timestamp="1583112444802" />
+    <state x="850" y="501" key="com.intellij.ide.util.TipDialog" timestamp="1583672776681">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583160984627" />
+    <state x="850" y="501" key="com.intellij.ide.util.TipDialog/67.27.2493.1413@67.27.2493.1413" timestamp="1583672776681" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/multiChannelGen/src/swg2v/wsgraph2vec.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/multiChannelGen/src/swg2v/loadGraph.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/multiChannelGen/src/g2vpre.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/multiChannelGen/src/swg2v/graphFeatureGen.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/multiChannelGen/src/swg2v/graphFeatureGen.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/multiChannelGen/src/swg2v/graphFeatureGen.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/multiChannelGen/src/g2vpre.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MCSWE1_1_master$g2vBopt.coverage" NAME="g2vBopt Coverage Results" MODIFIED="1582684158566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiChannelGen/exp" />
+    <SUITE FILE_PATH="coverage/MCSWE1_1$topgnn.coverage" NAME="topgnn Coverage Results" MODIFIED="1583104929204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/powergnn" />
+    <SUITE FILE_PATH="coverage/MCSWE1_1_master$g2vpre.coverage" NAME="g2vpre Coverage Results" MODIFIED="1582719286275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiChannelGen/src" />
+    <SUITE FILE_PATH="coverage/MCSWE1_1_master$wsgraph2vec.coverage" NAME="wsgraph2vec Coverage Results" MODIFIED="1582685836653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/swg2v/src" />
+    <SUITE FILE_PATH="coverage/MCSWE1_1_master$wsgraph2vec__1_.coverage" NAME="wsgraph2vec Coverage Results" MODIFIED="1582716739298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiChannelGen/src/swg2v" />
+    <SUITE FILE_PATH="coverage/MCSWE1_1$g2vpre.coverage" NAME="g2vpre Coverage Results" MODIFIED="1583760993273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiChannelGen/src" />
+  </component>
+</project>

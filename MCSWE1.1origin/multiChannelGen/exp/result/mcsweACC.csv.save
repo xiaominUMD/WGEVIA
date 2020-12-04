@@ -1,0 +1,4 @@
+≈acc: 0.9262368479964181 lastlost: 0.07376315200358186 numOfT: 20 singleDim: 16 wliter: 1
+acc: 0.9286993507947168 lastlost: 0.07130064920528323 numOfT: 40 singleDim: 16 wliter: 4
+acc: 0.922431161853593 lastlost: 0.07756883814640703 numOfT: 20 singleDim: 32 wliter: 4
+acc: 0.9196328632191627 lastlost: 0.08036713678083729 numOfT: 25 singleDim: 16 wliter: 4

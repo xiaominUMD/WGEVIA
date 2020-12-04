@@ -1,0 +1,40 @@
+2020-09-07 22:14:43.467624
+"five node case a (01 vs 01,34) using G2V , opcode 1, d = 80 "
+model 2 Acc 0.719
+std: 0.03505709
+0.719
+model 3 Acc 0.475
+std: 0.06667083320313315
+0.475
+model 1 Acc 0.706
+std: 0.0335261
+0.706
+model 0 Acc 0.753
+std: 0.03195309061734092
+0.753
+"five node case b (01 vs 34) using G2V , opcode 2, d = 80 "
+model 2 Acc 0.504
+std: 0.055172455
+0.504
+model 3 Acc 0.462
+std: 0.020880613017821098
+0.462
+model 1 Acc 0.508
+std: 0.04512206
+0.508
+model 0 Acc 0.511
+std: 0.042766809560686195
+0.511
+"five node case c (0102 vs 0103) using G2V , opcode 3, d = 80 "
+model 2 Acc 0.479
+std: 0.069491
+0.479
+model 3 Acc 0.467
+std: 0.018999999999999993
+0.46699999999999997
+model 1 Acc 0.521
+std: 0.029137604
+0.521
+model 0 Acc 0.514
+std: 0.0431740662898458
+0.514

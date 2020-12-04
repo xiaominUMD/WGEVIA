@@ -1,0 +1,11 @@
+	23: MCSWE on REAL1 Tn=40 d=96 posT lessCut nonabs  
+	24: MCSWE on REAL1 Tn=40 d=96 posT lessCut abs  
+	25: MCSWE on REAL1 Tn=40 d=96 negT lessCut nonabs  
+	26: MCSWE on REAL1 Tn=40 d=96 negT rangeCut nonabs  
+	27: MCSWE on REAL1 Tn=40 d=96 posT rangeCut nonabs  
+	28: MCSWE on REAL1 Tn=40 d=96 posT rangeCut abs  
+	11: MCSWE on REAL1 Tn=40 d=96  
+	14: G2V on REAL1  
+	17: powerGNN on REAL1  
+	20: Multi-channel G2V on REAL1 Tn=40 d=96  
+	19: Multi-channel G2V on SIMU Tn=40 d=96  

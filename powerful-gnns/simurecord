@@ -1,0 +1,5050 @@
+loading data
+# classes: 2
+# maximum node tag: 1
+# data: 1163
+fold_idx= 0
+loss training: 33.452366
+accuracy train: 0.708413 test: 0.717949
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 19.582092
+accuracy train: 0.509560 test: 0.512821
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 7.552872
+accuracy train: 0.625239 test: 0.615385
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 4.504068
+accuracy train: 0.713193 test: 0.743590
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 3.843600
+accuracy train: 0.500956 test: 0.504274
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 3.342470
+accuracy train: 0.641491 test: 0.606838
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 3.016386
+accuracy train: 0.576482 test: 0.564103
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.812459
+accuracy train: 0.721797 test: 0.700855
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.572285
+accuracy train: 0.500956 test: 0.504274
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.582044
+accuracy train: 0.654876 test: 0.641026
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.466872
+accuracy train: 0.535373 test: 0.512821
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.359539
+accuracy train: 0.564054 test: 0.547009
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.436106
+accuracy train: 0.695029 test: 0.700855
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.531115
+accuracy train: 0.663480 test: 0.675214
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 3.960680
+accuracy train: 0.500956 test: 0.504274
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 3.279999
+accuracy train: 0.509560 test: 0.512821
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.613424
+accuracy train: 0.660612 test: 0.666667
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.835678
+accuracy train: 0.634799 test: 0.641026
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.319856
+accuracy train: 0.669216 test: 0.675214
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.770451
+accuracy train: 0.703633 test: 0.743590
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.058486
+accuracy train: 0.656788 test: 0.632479
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.717938
+accuracy train: 0.656788 test: 0.666667
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.961681
+accuracy train: 0.667304 test: 0.641026
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.190737
+accuracy train: 0.608987 test: 0.555556
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.880335
+accuracy train: 0.667304 test: 0.666667
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.871429
+accuracy train: 0.669216 test: 0.649573
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.805043
+accuracy train: 0.658700 test: 0.641026
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.045008
+accuracy train: 0.694073 test: 0.709402
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.770733
+accuracy train: 0.450287 test: 0.444444
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.778424
+accuracy train: 0.664436 test: 0.675214
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.831427
+accuracy train: 0.727533 test: 0.735043
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.804406
+accuracy train: 0.705545 test: 0.709402
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.013483
+accuracy train: 0.715105 test: 0.717949
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.757577
+accuracy train: 0.730402 test: 0.726496
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.861503
+accuracy train: 0.667304 test: 0.666667
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.709961
+accuracy train: 0.729446 test: 0.735043
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.722929
+accuracy train: 0.621415 test: 0.615385
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.703806
+accuracy train: 0.675908 test: 0.683761
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.820017
+accuracy train: 0.703633 test: 0.700855
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.737946
+accuracy train: 0.500956 test: 0.504274
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.677730
+accuracy train: 0.658700 test: 0.658120
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.610594
+accuracy train: 0.693117 test: 0.700855
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.619611
+accuracy train: 0.675908 test: 0.683761
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.664918
+accuracy train: 0.707457 test: 0.735043
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.623230
+accuracy train: 0.704589 test: 0.752137
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.645208
+accuracy train: 0.667304 test: 0.666667
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.692547
+accuracy train: 0.675908 test: 0.666667
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.703367
+accuracy train: 0.512428 test: 0.512821
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.705856
+accuracy train: 0.671128 test: 0.666667
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.633413
+accuracy train: 0.659656 test: 0.641026
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.617073
+accuracy train: 0.648184 test: 0.658120
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.599179
+accuracy train: 0.655832 test: 0.658120
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.606948
+accuracy train: 0.716061 test: 0.717949
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.604899
+accuracy train: 0.714149 test: 0.692308
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.573003
+accuracy train: 0.670172 test: 0.683761
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.596631
+accuracy train: 0.673040 test: 0.666667
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.630083
+accuracy train: 0.658700 test: 0.641026
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.631527
+accuracy train: 0.671128 test: 0.666667
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.611559
+accuracy train: 0.730402 test: 0.743590
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.646299
+accuracy train: 0.722753 test: 0.735043
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.655126
+accuracy train: 0.586998 test: 0.581197
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.617191
+accuracy train: 0.673996 test: 0.675214
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.634974
+accuracy train: 0.722753 test: 0.709402
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.628063
+accuracy train: 0.696941 test: 0.709402
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.614221
+accuracy train: 0.682600 test: 0.683761
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.605991
+accuracy train: 0.659656 test: 0.632479
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.627439
+accuracy train: 0.719885 test: 0.709402
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.616195
+accuracy train: 0.591778 test: 0.581197
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.620471
+accuracy train: 0.691205 test: 0.717949
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.604635
+accuracy train: 0.695029 test: 0.709402
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.624439
+accuracy train: 0.650096 test: 0.623932
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.608193
+accuracy train: 0.689293 test: 0.692308
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.573074
+accuracy train: 0.742830 test: 0.735043
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.620524
+accuracy train: 0.701721 test: 0.692308
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.645641
+accuracy train: 0.694073 test: 0.692308
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.602036
+accuracy train: 0.708413 test: 0.709402
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.596987
+accuracy train: 0.660612 test: 0.658120
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.579279
+accuracy train: 0.702677 test: 0.700855
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.631925
+accuracy train: 0.630019 test: 0.581197
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.614118
+accuracy train: 0.684512 test: 0.658120
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.609817
+accuracy train: 0.699809 test: 0.700855
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.614997
+accuracy train: 0.699809 test: 0.700855
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.592792
+accuracy train: 0.677820 test: 0.675214
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.570233
+accuracy train: 0.705545 test: 0.717949
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.641672
+accuracy train: 0.707457 test: 0.700855
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.581089
+accuracy train: 0.699809 test: 0.735043
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.587041
+accuracy train: 0.670172 test: 0.675214
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.646140
+accuracy train: 0.708413 test: 0.700855
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.667339
+accuracy train: 0.718929 test: 0.726496
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.609577
+accuracy train: 0.665392 test: 0.641026
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.596987
+accuracy train: 0.693117 test: 0.675214
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.610488
+accuracy train: 0.688337 test: 0.692308
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.618149
+accuracy train: 0.704589 test: 0.700855
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.600147
+accuracy train: 0.695985 test: 0.692308
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.590570
+accuracy train: 0.746654 test: 0.769231
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.598729
+accuracy train: 0.682600 test: 0.675214
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.588584
+accuracy train: 0.723709 test: 0.735043
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.582906
+accuracy train: 0.727533 test: 0.752137
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.602213
+accuracy train: 0.691205 test: 0.666667
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.582592
+accuracy train: 0.738050 test: 0.735043
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loading data
+# classes: 2
+# maximum node tag: 1
+# data: 1163
+fold_idx= 1
+loss training: 33.039459
+accuracy train: 0.711281 test: 0.683761
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 17.493177
+accuracy train: 0.688337 test: 0.700855
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 6.207015
+accuracy train: 0.611855 test: 0.641026
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 5.266376
+accuracy train: 0.636711 test: 0.598291
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 4.076248
+accuracy train: 0.583174 test: 0.623932
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 2.184147
+accuracy train: 0.692161 test: 0.700855
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 2.310902
+accuracy train: 0.653920 test: 0.606838
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 2.461995
+accuracy train: 0.508604 test: 0.512821
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 2.024099
+accuracy train: 0.500956 test: 0.504274
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 2.336948
+accuracy train: 0.659656 test: 0.632479
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.617243
+accuracy train: 0.672084 test: 0.692308
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.880514
+accuracy train: 0.425430 test: 0.461538
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.573462
+accuracy train: 0.651052 test: 0.615385
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.160129
+accuracy train: 0.500956 test: 0.504274
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 2.470429
+accuracy train: 0.654876 test: 0.675214
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 3.437012
+accuracy train: 0.664436 test: 0.649573
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.725850
+accuracy train: 0.500956 test: 0.504274
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.411041
+accuracy train: 0.689293 test: 0.649573
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.397235
+accuracy train: 0.663480 test: 0.683761
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.098385
+accuracy train: 0.735182 test: 0.726496
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.925619
+accuracy train: 0.680688 test: 0.641026
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.784324
+accuracy train: 0.686424 test: 0.683761
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.804711
+accuracy train: 0.621415 test: 0.564103
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.923644
+accuracy train: 0.437859 test: 0.376068
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.930109
+accuracy train: 0.719885 test: 0.735043
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.758953
+accuracy train: 0.700765 test: 0.675214
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.839495
+accuracy train: 0.500956 test: 0.504274
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.960024
+accuracy train: 0.687380 test: 0.658120
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.935236
+accuracy train: 0.602294 test: 0.555556
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.443397
+accuracy train: 0.704589 test: 0.692308
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.955553
+accuracy train: 0.608987 test: 0.615385
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.712494
+accuracy train: 0.666348 test: 0.623932
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.846590
+accuracy train: 0.739006 test: 0.735043
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.730922
+accuracy train: 0.682600 test: 0.675214
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.859895
+accuracy train: 0.673996 test: 0.649573
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.725228
+accuracy train: 0.639579 test: 0.641026
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.624765
+accuracy train: 0.639579 test: 0.632479
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.665885
+accuracy train: 0.500956 test: 0.504274
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.918104
+accuracy train: 0.702677 test: 0.683761
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.744999
+accuracy train: 0.518164 test: 0.512821
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.687531
+accuracy train: 0.705545 test: 0.692308
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.609108
+accuracy train: 0.704589 test: 0.692308
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.612034
+accuracy train: 0.695029 test: 0.683761
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.626905
+accuracy train: 0.738050 test: 0.717949
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.788730
+accuracy train: 0.500956 test: 0.504274
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.693757
+accuracy train: 0.739006 test: 0.743590
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.674014
+accuracy train: 0.615679 test: 0.598291
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.724970
+accuracy train: 0.524857 test: 0.512821
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.749580
+accuracy train: 0.737094 test: 0.726496
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.644352
+accuracy train: 0.687380 test: 0.649573
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.621894
+accuracy train: 0.652008 test: 0.623932
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.588941
+accuracy train: 0.677820 test: 0.666667
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.608978
+accuracy train: 0.738050 test: 0.726496
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.591384
+accuracy train: 0.728489 test: 0.709402
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.578367
+accuracy train: 0.710325 test: 0.692308
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.640408
+accuracy train: 0.688337 test: 0.675214
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.602973
+accuracy train: 0.708413 test: 0.709402
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.618123
+accuracy train: 0.659656 test: 0.641026
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.590965
+accuracy train: 0.723709 test: 0.717949
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.592803
+accuracy train: 0.726577 test: 0.717949
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.631523
+accuracy train: 0.659656 test: 0.658120
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.622224
+accuracy train: 0.715105 test: 0.709402
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.627158
+accuracy train: 0.739006 test: 0.743590
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.633438
+accuracy train: 0.707457 test: 0.700855
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.593942
+accuracy train: 0.711281 test: 0.692308
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.596886
+accuracy train: 0.718929 test: 0.700855
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.615499
+accuracy train: 0.725621 test: 0.700855
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.640317
+accuracy train: 0.745698 test: 0.726496
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.600649
+accuracy train: 0.745698 test: 0.743590
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.615209
+accuracy train: 0.727533 test: 0.726496
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.605325
+accuracy train: 0.699809 test: 0.683761
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.613448
+accuracy train: 0.697897 test: 0.692308
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.575147
+accuracy train: 0.699809 test: 0.752137
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.606528
+accuracy train: 0.656788 test: 0.632479
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.599963
+accuracy train: 0.717973 test: 0.709402
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.569409
+accuracy train: 0.717017 test: 0.683761
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.562061
+accuracy train: 0.726577 test: 0.709402
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.577699
+accuracy train: 0.717017 test: 0.683761
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.579415
+accuracy train: 0.749522 test: 0.735043
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.574884
+accuracy train: 0.689293 test: 0.649573
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.580271
+accuracy train: 0.782983 test: 0.803419
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.591984
+accuracy train: 0.728489 test: 0.709402
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.597348
+accuracy train: 0.665392 test: 0.666667
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.560435
+accuracy train: 0.716061 test: 0.709402
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.588252
+accuracy train: 0.724665 test: 0.726496
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.554193
+accuracy train: 0.718929 test: 0.726496
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.583008
+accuracy train: 0.736138 test: 0.709402
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.597429
+accuracy train: 0.717017 test: 0.709402
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.607961
+accuracy train: 0.749522 test: 0.760684
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.585180
+accuracy train: 0.731358 test: 0.709402
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.579758
+accuracy train: 0.747610 test: 0.743590
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.576174
+accuracy train: 0.715105 test: 0.709402
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.625870
+accuracy train: 0.739962 test: 0.735043
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.597794
+accuracy train: 0.677820 test: 0.641026
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.592233
+accuracy train: 0.514340 test: 0.521368
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.622359
+accuracy train: 0.737094 test: 0.743590
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.595861
+accuracy train: 0.766730 test: 0.709402
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.609331
+accuracy train: 0.685468 test: 0.658120
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.581252
+accuracy train: 0.717017 test: 0.700855
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.582209
+accuracy train: 0.799235 test: 0.794872
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loading data
+# classes: 2
+# maximum node tag: 1
+# data: 1163
+fold_idx= 2
+loss training: 32.601238
+accuracy train: 0.681644 test: 0.615385
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 19.760188
+accuracy train: 0.750478 test: 0.735043
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 7.645945
+accuracy train: 0.717973 test: 0.700855
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 4.253515
+accuracy train: 0.653920 test: 0.649573
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 3.239586
+accuracy train: 0.500956 test: 0.504274
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 3.285675
+accuracy train: 0.685468 test: 0.632479
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 2.325539
+accuracy train: 0.681644 test: 0.632479
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 2.090978
+accuracy train: 0.671128 test: 0.623932
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.920296
+accuracy train: 0.719885 test: 0.675214
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 2.297072
+accuracy train: 0.674952 test: 0.641026
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.576496
+accuracy train: 0.514340 test: 0.487179
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.471782
+accuracy train: 0.514340 test: 0.487179
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.266010
+accuracy train: 0.680688 test: 0.641026
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.787464
+accuracy train: 0.703633 test: 0.658120
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.890312
+accuracy train: 0.488528 test: 0.512821
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.813127
+accuracy train: 0.575526 test: 0.564103
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.397265
+accuracy train: 0.640535 test: 0.623932
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.085974
+accuracy train: 0.662524 test: 0.589744
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.840038
+accuracy train: 0.694073 test: 0.675214
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.793684
+accuracy train: 0.669216 test: 0.632479
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.826427
+accuracy train: 0.617591 test: 0.615385
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.098469
+accuracy train: 0.662524 test: 0.641026
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.850984
+accuracy train: 0.708413 test: 0.692308
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.850327
+accuracy train: 0.500956 test: 0.504274
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.795475
+accuracy train: 0.568834 test: 0.521368
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.756131
+accuracy train: 0.696941 test: 0.658120
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.800208
+accuracy train: 0.665392 test: 0.649573
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.991187
+accuracy train: 0.691205 test: 0.675214
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.733169
+accuracy train: 0.620459 test: 0.632479
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.713450
+accuracy train: 0.708413 test: 0.675214
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.688384
+accuracy train: 0.724665 test: 0.623932
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.713766
+accuracy train: 0.694073 test: 0.675214
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.841933
+accuracy train: 0.506692 test: 0.512821
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.741522
+accuracy train: 0.695985 test: 0.623932
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.038021
+accuracy train: 0.685468 test: 0.675214
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.088142
+accuracy train: 0.695029 test: 0.658120
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.701749
+accuracy train: 0.643403 test: 0.615385
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.656393
+accuracy train: 0.523901 test: 0.512821
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.768411
+accuracy train: 0.656788 test: 0.632479
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.745984
+accuracy train: 0.739006 test: 0.666667
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.658147
+accuracy train: 0.712237 test: 0.658120
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.605502
+accuracy train: 0.690249 test: 0.675214
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.613721
+accuracy train: 0.677820 test: 0.641026
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.617480
+accuracy train: 0.722753 test: 0.658120
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.636078
+accuracy train: 0.585086 test: 0.589744
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.653320
+accuracy train: 0.729446 test: 0.683761
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.652259
+accuracy train: 0.635755 test: 0.623932
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.700887
+accuracy train: 0.749522 test: 0.692308
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.737014
+accuracy train: 0.503824 test: 0.495726
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.624361
+accuracy train: 0.698853 test: 0.658120
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.597198
+accuracy train: 0.694073 test: 0.666667
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.576417
+accuracy train: 0.693117 test: 0.641026
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.593586
+accuracy train: 0.737094 test: 0.692308
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.592911
+accuracy train: 0.739006 test: 0.683761
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.574641
+accuracy train: 0.689293 test: 0.649573
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.590629
+accuracy train: 0.690249 test: 0.666667
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.588337
+accuracy train: 0.726577 test: 0.666667
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.630901
+accuracy train: 0.659656 test: 0.632479
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.600455
+accuracy train: 0.733270 test: 0.683761
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.605567
+accuracy train: 0.719885 test: 0.683761
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.608147
+accuracy train: 0.648184 test: 0.598291
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.588088
+accuracy train: 0.714149 test: 0.692308
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.623100
+accuracy train: 0.732314 test: 0.692308
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.639099
+accuracy train: 0.710325 test: 0.683761
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.598549
+accuracy train: 0.717017 test: 0.683761
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.593937
+accuracy train: 0.710325 test: 0.692308
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.599535
+accuracy train: 0.741874 test: 0.683761
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.645990
+accuracy train: 0.627151 test: 0.623932
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.594509
+accuracy train: 0.760038 test: 0.726496
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.616461
+accuracy train: 0.712237 test: 0.692308
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.590904
+accuracy train: 0.657744 test: 0.632479
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.591536
+accuracy train: 0.686424 test: 0.692308
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.580985
+accuracy train: 0.720841 test: 0.641026
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.612250
+accuracy train: 0.693117 test: 0.675214
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.599321
+accuracy train: 0.721797 test: 0.675214
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.567751
+accuracy train: 0.698853 test: 0.658120
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.568891
+accuracy train: 0.716061 test: 0.700855
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.572607
+accuracy train: 0.720841 test: 0.692308
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.587703
+accuracy train: 0.705545 test: 0.658120
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.587125
+accuracy train: 0.701721 test: 0.692308
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.584817
+accuracy train: 0.720841 test: 0.700855
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.581392
+accuracy train: 0.720841 test: 0.683761
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.600526
+accuracy train: 0.682600 test: 0.623932
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.571045
+accuracy train: 0.722753 test: 0.683761
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.577396
+accuracy train: 0.702677 test: 0.683761
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.563734
+accuracy train: 0.696941 test: 0.649573
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.601013
+accuracy train: 0.733270 test: 0.666667
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.601700
+accuracy train: 0.722753 test: 0.700855
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.574940
+accuracy train: 0.717017 test: 0.683761
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.611649
+accuracy train: 0.675908 test: 0.632479
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.568639
+accuracy train: 0.738050 test: 0.683761
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.571741
+accuracy train: 0.710325 test: 0.666667
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.590980
+accuracy train: 0.731358 test: 0.666667
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.585981
+accuracy train: 0.685468 test: 0.692308
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.584952
+accuracy train: 0.724665 test: 0.683761
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.591304
+accuracy train: 0.699809 test: 0.692308
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.580073
+accuracy train: 0.714149 test: 0.683761
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.593418
+accuracy train: 0.728489 test: 0.675214
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.588772
+accuracy train: 0.712237 test: 0.692308
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.582756
+accuracy train: 0.742830 test: 0.683761
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loading data
+# classes: 2
+# maximum node tag: 1
+# data: 1163
+fold_idx= 3
+loss training: 37.530446
+accuracy train: 0.702006 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 17.082309
+accuracy train: 0.702961 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 5.244390
+accuracy train: 0.692455 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 4.160673
+accuracy train: 0.672397 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 3.047955
+accuracy train: 0.669532 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 2.285759
+accuracy train: 0.691500 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 5.050908
+accuracy train: 0.683859 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 2.793401
+accuracy train: 0.650430 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 3.866619
+accuracy train: 0.664756 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 2.425688
+accuracy train: 0.623687 test: 0.568966
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.928222
+accuracy train: 0.474690 test: 0.456897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.088796
+accuracy train: 0.663801 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.340787
+accuracy train: 0.701051 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.503541
+accuracy train: 0.649475 test: 0.594828
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.513696
+accuracy train: 0.490926 test: 0.474138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.304837
+accuracy train: 0.624642 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.821441
+accuracy train: 0.634193 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.243547
+accuracy train: 0.639924 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.437943
+accuracy train: 0.536772 test: 0.500000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.025671
+accuracy train: 0.677173 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.315322
+accuracy train: 0.767908 test: 0.793103
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.983463
+accuracy train: 0.669532 test: 0.612069
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.734310
+accuracy train: 0.684814 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.847177
+accuracy train: 0.648520 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.823087
+accuracy train: 0.663801 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.932273
+accuracy train: 0.501433 test: 0.500000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.881373
+accuracy train: 0.693410 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.766637
+accuracy train: 0.705826 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.708968
+accuracy train: 0.660936 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.799882
+accuracy train: 0.702961 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.714006
+accuracy train: 0.665712 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.681531
+accuracy train: 0.628462 test: 0.568966
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.731550
+accuracy train: 0.618911 test: 0.629310
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.706521
+accuracy train: 0.665712 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.720678
+accuracy train: 0.656160 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.669900
+accuracy train: 0.706781 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.732957
+accuracy train: 0.680038 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.664506
+accuracy train: 0.677173 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.691074
+accuracy train: 0.692455 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.697928
+accuracy train: 0.709647 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.672270
+accuracy train: 0.510984 test: 0.500000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.659077
+accuracy train: 0.694365 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.604380
+accuracy train: 0.615091 test: 0.629310
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.684940
+accuracy train: 0.660936 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.633288
+accuracy train: 0.659981 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.622904
+accuracy train: 0.706781 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.727858
+accuracy train: 0.698185 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.773345
+accuracy train: 0.682904 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.801479
+accuracy train: 0.658071 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.627237
+accuracy train: 0.722063 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.644669
+accuracy train: 0.686724 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.622288
+accuracy train: 0.732569 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.599774
+accuracy train: 0.655205 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.609741
+accuracy train: 0.665712 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.610642
+accuracy train: 0.681948 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.601721
+accuracy train: 0.689589 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.617242
+accuracy train: 0.716332 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.564473
+accuracy train: 0.738300 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.607694
+accuracy train: 0.691500 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.603901
+accuracy train: 0.700096 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.626609
+accuracy train: 0.713467 test: 0.750000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.558424
+accuracy train: 0.680993 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.587027
+accuracy train: 0.702006 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.568316
+accuracy train: 0.712512 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.559290
+accuracy train: 0.716332 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.577039
+accuracy train: 0.740210 test: 0.741379
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.570967
+accuracy train: 0.744031 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.606583
+accuracy train: 0.671442 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.600738
+accuracy train: 0.702961 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.571102
+accuracy train: 0.703916 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.590092
+accuracy train: 0.737345 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.601911
+accuracy train: 0.704871 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.579055
+accuracy train: 0.743075 test: 0.758621
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.559799
+accuracy train: 0.765043 test: 0.758621
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.593343
+accuracy train: 0.717287 test: 0.741379
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.547983
+accuracy train: 0.790831 test: 0.775862
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.574106
+accuracy train: 0.749761 test: 0.775862
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.560178
+accuracy train: 0.668577 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.604821
+accuracy train: 0.740210 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.573359
+accuracy train: 0.736390 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.562056
+accuracy train: 0.755492 test: 0.784483
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.602668
+accuracy train: 0.726839 test: 0.715517
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.595010
+accuracy train: 0.716332 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.568555
+accuracy train: 0.796562 test: 0.741379
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.563792
+accuracy train: 0.760267 test: 0.784483
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.546426
+accuracy train: 0.774594 test: 0.784483
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.544272
+accuracy train: 0.728749 test: 0.775862
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.593171
+accuracy train: 0.731614 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.556658
+accuracy train: 0.794651 test: 0.793103
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.566232
+accuracy train: 0.764088 test: 0.793103
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.564596
+accuracy train: 0.742120 test: 0.767241
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.553731
+accuracy train: 0.770774 test: 0.793103
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.597460
+accuracy train: 0.728749 test: 0.741379
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.581702
+accuracy train: 0.753582 test: 0.767241
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.605109
+accuracy train: 0.787011 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.561985
+accuracy train: 0.731614 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.575398
+accuracy train: 0.723018 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.587903
+accuracy train: 0.686724 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.591765
+accuracy train: 0.729704 test: 0.750000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.539862
+accuracy train: 0.736390 test: 0.767241
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loading data
+# classes: 2
+# maximum node tag: 1
+# data: 1163
+fold_idx= 4
+loss training: 36.561981
+accuracy train: 0.703916 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 19.304762
+accuracy train: 0.501433 test: 0.500000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 4.339654
+accuracy train: 0.501433 test: 0.500000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 4.369721
+accuracy train: 0.501433 test: 0.500000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 3.476044
+accuracy train: 0.648520 test: 0.629310
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 3.077550
+accuracy train: 0.737345 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 5.210527
+accuracy train: 0.584527 test: 0.603448
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 2.167405
+accuracy train: 0.708691 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 2.035601
+accuracy train: 0.669532 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.573061
+accuracy train: 0.501433 test: 0.500000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.467783
+accuracy train: 0.713467 test: 0.741379
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.923449
+accuracy train: 0.505253 test: 0.517241
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.236028
+accuracy train: 0.512894 test: 0.508621
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 2.163848
+accuracy train: 0.659981 test: 0.629310
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.981998
+accuracy train: 0.747851 test: 0.758621
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.322735
+accuracy train: 0.677173 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.774881
+accuracy train: 0.617956 test: 0.629310
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.287690
+accuracy train: 0.540592 test: 0.594828
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.982307
+accuracy train: 0.489971 test: 0.482759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.320450
+accuracy train: 0.680993 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.775614
+accuracy train: 0.721108 test: 0.758621
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.157380
+accuracy train: 0.674308 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.736788
+accuracy train: 0.698185 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.107863
+accuracy train: 0.607450 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.669929
+accuracy train: 0.701051 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.874464
+accuracy train: 0.511939 test: 0.517241
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.931777
+accuracy train: 0.661891 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.765418
+accuracy train: 0.697230 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.620819
+accuracy train: 0.659026 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.894039
+accuracy train: 0.721108 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.869481
+accuracy train: 0.700096 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.761528
+accuracy train: 0.647564 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.715333
+accuracy train: 0.651385 test: 0.629310
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.699221
+accuracy train: 0.641834 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.655065
+accuracy train: 0.681948 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.663176
+accuracy train: 0.501433 test: 0.500000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.700956
+accuracy train: 0.701051 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.707142
+accuracy train: 0.690544 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.691355
+accuracy train: 0.675263 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.639296
+accuracy train: 0.664756 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.748714
+accuracy train: 0.501433 test: 0.500000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.744747
+accuracy train: 0.664756 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.617129
+accuracy train: 0.565425 test: 0.560345
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.757891
+accuracy train: 0.692455 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.662632
+accuracy train: 0.673352 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.636587
+accuracy train: 0.691500 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.899346
+accuracy train: 0.674308 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.799007
+accuracy train: 0.670487 test: 0.629310
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.654022
+accuracy train: 0.650430 test: 0.629310
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.597922
+accuracy train: 0.721108 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.631128
+accuracy train: 0.692455 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.615833
+accuracy train: 0.728749 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.595288
+accuracy train: 0.662846 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.607526
+accuracy train: 0.659026 test: 0.629310
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.631356
+accuracy train: 0.668577 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.590578
+accuracy train: 0.681948 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.624370
+accuracy train: 0.666667 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.569855
+accuracy train: 0.702006 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.599077
+accuracy train: 0.683859 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.604715
+accuracy train: 0.742120 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.661653
+accuracy train: 0.695320 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.597822
+accuracy train: 0.672397 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.631704
+accuracy train: 0.691500 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.597238
+accuracy train: 0.715377 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.586425
+accuracy train: 0.672397 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.599163
+accuracy train: 0.709647 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.595762
+accuracy train: 0.598854 test: 0.603448
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.627750
+accuracy train: 0.682904 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.619380
+accuracy train: 0.693410 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.586938
+accuracy train: 0.686724 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.626534
+accuracy train: 0.718243 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.603761
+accuracy train: 0.677173 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.597909
+accuracy train: 0.756447 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.580774
+accuracy train: 0.708691 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.622558
+accuracy train: 0.702006 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.574314
+accuracy train: 0.750716 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.608441
+accuracy train: 0.690544 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.581973
+accuracy train: 0.678128 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.610878
+accuracy train: 0.685769 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.599413
+accuracy train: 0.695320 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.578104
+accuracy train: 0.706781 test: 0.629310
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.614960
+accuracy train: 0.702961 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.614677
+accuracy train: 0.691500 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.608355
+accuracy train: 0.683859 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.573776
+accuracy train: 0.688634 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.589929
+accuracy train: 0.678128 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.626927
+accuracy train: 0.700096 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.644798
+accuracy train: 0.665712 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.584912
+accuracy train: 0.681948 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.602917
+accuracy train: 0.695320 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.607931
+accuracy train: 0.672397 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.604744
+accuracy train: 0.684814 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.593081
+accuracy train: 0.709647 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.600606
+accuracy train: 0.700096 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.628378
+accuracy train: 0.711557 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.601465
+accuracy train: 0.705826 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.582645
+accuracy train: 0.610315 test: 0.620690
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.595330
+accuracy train: 0.702961 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.619931
+accuracy train: 0.706781 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.571041
+accuracy train: 0.702961 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loading data
+# classes: 2
+# maximum node tag: 1
+# data: 1163
+fold_idx= 5
+loss training: 37.617751
+accuracy train: 0.674308 test: 0.758621
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 17.755287
+accuracy train: 0.753582 test: 0.818966
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 5.435532
+accuracy train: 0.671442 test: 0.784483
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 5.792812
+accuracy train: 0.673352 test: 0.767241
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 4.341573
+accuracy train: 0.612225 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 2.957835
+accuracy train: 0.666667 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 3.539262
+accuracy train: 0.621777 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 2.673648
+accuracy train: 0.640879 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 2.586000
+accuracy train: 0.679083 test: 0.750000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 2.412875
+accuracy train: 0.456543 test: 0.422414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 2.743402
+accuracy train: 0.689589 test: 0.750000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.077580
+accuracy train: 0.690544 test: 0.793103
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.430837
+accuracy train: 0.506208 test: 0.508621
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.787414
+accuracy train: 0.690544 test: 0.758621
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.135364
+accuracy train: 0.465138 test: 0.413793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.602831
+accuracy train: 0.615091 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.020838
+accuracy train: 0.580707 test: 0.603448
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.300495
+accuracy train: 0.534862 test: 0.586207
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.142530
+accuracy train: 0.689589 test: 0.758621
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.867786
+accuracy train: 0.665712 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.336873
+accuracy train: 0.502388 test: 0.500000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.183458
+accuracy train: 0.586437 test: 0.603448
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.757626
+accuracy train: 0.698185 test: 0.767241
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.933338
+accuracy train: 0.631328 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.686560
+accuracy train: 0.697230 test: 0.784483
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.802153
+accuracy train: 0.734479 test: 0.818966
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.002494
+accuracy train: 0.697230 test: 0.741379
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.805626
+accuracy train: 0.657116 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.620221
+accuracy train: 0.645654 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.801090
+accuracy train: 0.473734 test: 0.422414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.736058
+accuracy train: 0.696275 test: 0.750000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.652490
+accuracy train: 0.606495 test: 0.594828
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.735682
+accuracy train: 0.584527 test: 0.603448
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.743090
+accuracy train: 0.694365 test: 0.750000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.740821
+accuracy train: 0.684814 test: 0.741379
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.697513
+accuracy train: 0.699140 test: 0.784483
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.702823
+accuracy train: 0.671442 test: 0.750000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.728156
+accuracy train: 0.668577 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.715148
+accuracy train: 0.664756 test: 0.750000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.672285
+accuracy train: 0.669532 test: 0.750000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.681661
+accuracy train: 0.574021 test: 0.586207
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.687975
+accuracy train: 0.682904 test: 0.750000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.606220
+accuracy train: 0.621777 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.655276
+accuracy train: 0.667622 test: 0.741379
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.643692
+accuracy train: 0.649475 test: 0.741379
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.635982
+accuracy train: 0.644699 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.710803
+accuracy train: 0.685769 test: 0.750000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.711783
+accuracy train: 0.680038 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.724861
+accuracy train: 0.612225 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.622839
+accuracy train: 0.727794 test: 0.784483
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.662370
+accuracy train: 0.657116 test: 0.715517
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.626673
+accuracy train: 0.712512 test: 0.767241
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.617543
+accuracy train: 0.627507 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.629245
+accuracy train: 0.680038 test: 0.741379
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.626674
+accuracy train: 0.713467 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.600247
+accuracy train: 0.689589 test: 0.741379
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.630409
+accuracy train: 0.726839 test: 0.818966
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.587700
+accuracy train: 0.712512 test: 0.741379
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.627200
+accuracy train: 0.672397 test: 0.741379
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.614769
+accuracy train: 0.511939 test: 0.517241
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.670289
+accuracy train: 0.700096 test: 0.758621
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.596159
+accuracy train: 0.679083 test: 0.750000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.630363
+accuracy train: 0.682904 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.594529
+accuracy train: 0.672397 test: 0.715517
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.602917
+accuracy train: 0.674308 test: 0.750000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.617334
+accuracy train: 0.694365 test: 0.758621
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.614310
+accuracy train: 0.511939 test: 0.517241
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.640075
+accuracy train: 0.662846 test: 0.750000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.630771
+accuracy train: 0.678128 test: 0.750000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.604587
+accuracy train: 0.696275 test: 0.758621
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.639997
+accuracy train: 0.527221 test: 0.525862
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.633881
+accuracy train: 0.665712 test: 0.750000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.630894
+accuracy train: 0.518625 test: 0.517241
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.608834
+accuracy train: 0.677173 test: 0.741379
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.638737
+accuracy train: 0.694365 test: 0.767241
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.604341
+accuracy train: 0.553964 test: 0.560345
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.612057
+accuracy train: 0.668577 test: 0.750000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.610047
+accuracy train: 0.607450 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.646701
+accuracy train: 0.699140 test: 0.784483
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.613479
+accuracy train: 0.686724 test: 0.750000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.613512
+accuracy train: 0.708691 test: 0.767241
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.620198
+accuracy train: 0.694365 test: 0.775862
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.626135
+accuracy train: 0.655205 test: 0.741379
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.653189
+accuracy train: 0.717287 test: 0.827586
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.587782
+accuracy train: 0.696275 test: 0.758621
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.612575
+accuracy train: 0.696275 test: 0.758621
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.626425
+accuracy train: 0.685769 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.646408
+accuracy train: 0.651385 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.610808
+accuracy train: 0.670487 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.616466
+accuracy train: 0.699140 test: 0.715517
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.727256
+accuracy train: 0.695320 test: 0.784483
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.748750
+accuracy train: 0.733524 test: 0.827586
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.696314
+accuracy train: 0.674308 test: 0.741379
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.651606
+accuracy train: 0.701051 test: 0.741379
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.619377
+accuracy train: 0.739255 test: 0.818966
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.609210
+accuracy train: 0.684814 test: 0.750000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.667367
+accuracy train: 0.638013 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.675049
+accuracy train: 0.684814 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.752992
+accuracy train: 0.697230 test: 0.741379
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.597015
+accuracy train: 0.652340 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loading data
+# classes: 2
+# maximum node tag: 1
+# data: 1163
+fold_idx= 6
+loss training: 34.496105
+accuracy train: 0.710602 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 18.073231
+accuracy train: 0.701051 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 5.565740
+accuracy train: 0.661891 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 4.316491
+accuracy train: 0.697230 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 3.238619
+accuracy train: 0.606495 test: 0.629310
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 3.239664
+accuracy train: 0.654250 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 4.950313
+accuracy train: 0.690544 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 2.118421
+accuracy train: 0.693410 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 2.882571
+accuracy train: 0.677173 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.966378
+accuracy train: 0.501433 test: 0.500000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 2.348191
+accuracy train: 0.718243 test: 0.741379
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.190957
+accuracy train: 0.501433 test: 0.500000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.747999
+accuracy train: 0.654250 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.007928
+accuracy train: 0.681948 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.050687
+accuracy train: 0.574976 test: 0.586207
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.093233
+accuracy train: 0.709647 test: 0.741379
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.958408
+accuracy train: 0.584527 test: 0.612069
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.399020
+accuracy train: 0.616046 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.222570
+accuracy train: 0.714422 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.927867
+accuracy train: 0.712512 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.671277
+accuracy train: 0.679083 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.328951
+accuracy train: 0.670487 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.821363
+accuracy train: 0.665712 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.892771
+accuracy train: 0.663801 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.843911
+accuracy train: 0.695320 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.807125
+accuracy train: 0.510984 test: 0.500000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.001547
+accuracy train: 0.657116 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.928293
+accuracy train: 0.665712 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.773204
+accuracy train: 0.674308 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.145571
+accuracy train: 0.494747 test: 0.508621
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.787278
+accuracy train: 0.707736 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.674328
+accuracy train: 0.600764 test: 0.620690
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.812940
+accuracy train: 0.696275 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.771009
+accuracy train: 0.678128 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.691524
+accuracy train: 0.695320 test: 0.629310
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.660272
+accuracy train: 0.675263 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.708083
+accuracy train: 0.659026 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.735331
+accuracy train: 0.689589 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.717117
+accuracy train: 0.668577 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.670704
+accuracy train: 0.697230 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.664510
+accuracy train: 0.716332 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.775464
+accuracy train: 0.659026 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.662628
+accuracy train: 0.650430 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.664457
+accuracy train: 0.686724 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.629718
+accuracy train: 0.706781 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.667424
+accuracy train: 0.574976 test: 0.620690
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.797607
+accuracy train: 0.696275 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.829642
+accuracy train: 0.703916 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.758735
+accuracy train: 0.580707 test: 0.612069
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.624546
+accuracy train: 0.718243 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.659375
+accuracy train: 0.683859 test: 0.629310
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.624506
+accuracy train: 0.718243 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.620583
+accuracy train: 0.649475 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.623101
+accuracy train: 0.638968 test: 0.612069
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.611030
+accuracy train: 0.665712 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.604076
+accuracy train: 0.658071 test: 0.612069
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.654629
+accuracy train: 0.728749 test: 0.741379
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.579641
+accuracy train: 0.683859 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.612775
+accuracy train: 0.703916 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.615717
+accuracy train: 0.711557 test: 0.715517
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.629591
+accuracy train: 0.649475 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.572488
+accuracy train: 0.693410 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.613820
+accuracy train: 0.674308 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.586424
+accuracy train: 0.697230 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.589474
+accuracy train: 0.699140 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.602425
+accuracy train: 0.697230 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.598635
+accuracy train: 0.513849 test: 0.500000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.660847
+accuracy train: 0.687679 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.664612
+accuracy train: 0.705826 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.597498
+accuracy train: 0.694365 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.613361
+accuracy train: 0.714422 test: 0.715517
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.624890
+accuracy train: 0.687679 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.600659
+accuracy train: 0.729704 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.592766
+accuracy train: 0.680993 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.641602
+accuracy train: 0.705826 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.593842
+accuracy train: 0.548233 test: 0.551724
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.607611
+accuracy train: 0.703916 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.587438
+accuracy train: 0.696275 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.621254
+accuracy train: 0.714422 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.597642
+accuracy train: 0.704871 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.586124
+accuracy train: 0.695320 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.600947
+accuracy train: 0.708691 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.622905
+accuracy train: 0.672397 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.634777
+accuracy train: 0.617001 test: 0.594828
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.597937
+accuracy train: 0.684814 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.598778
+accuracy train: 0.703916 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.644045
+accuracy train: 0.695320 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.673631
+accuracy train: 0.647564 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.609711
+accuracy train: 0.685769 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.614889
+accuracy train: 0.691500 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.620059
+accuracy train: 0.687679 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.635035
+accuracy train: 0.673352 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.599728
+accuracy train: 0.712512 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.594467
+accuracy train: 0.708691 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.627726
+accuracy train: 0.729704 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.590258
+accuracy train: 0.686724 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.601411
+accuracy train: 0.652340 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.593590
+accuracy train: 0.694365 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.626822
+accuracy train: 0.714422 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.577692
+accuracy train: 0.702961 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loading data
+# classes: 2
+# maximum node tag: 1
+# data: 1163
+fold_idx= 7
+loss training: 35.665813
+accuracy train: 0.709647 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 19.923188
+accuracy train: 0.708691 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 6.844372
+accuracy train: 0.592168 test: 0.594828
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 4.601387
+accuracy train: 0.680038 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 5.342937
+accuracy train: 0.683859 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 2.305304
+accuracy train: 0.704871 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 3.532751
+accuracy train: 0.630372 test: 0.620690
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 2.255325
+accuracy train: 0.702961 test: 0.715517
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.671607
+accuracy train: 0.702961 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.932608
+accuracy train: 0.721108 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.429962
+accuracy train: 0.648520 test: 0.620690
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.019625
+accuracy train: 0.508118 test: 0.517241
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.881057
+accuracy train: 0.722063 test: 0.758621
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.034262
+accuracy train: 0.507163 test: 0.500000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.049656
+accuracy train: 0.511939 test: 0.508621
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.356203
+accuracy train: 0.677173 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.043676
+accuracy train: 0.585482 test: 0.568966
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.460176
+accuracy train: 0.690544 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.977729
+accuracy train: 0.506208 test: 0.517241
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.022315
+accuracy train: 0.659981 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.118067
+accuracy train: 0.501433 test: 0.500000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.618007
+accuracy train: 0.658071 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.788685
+accuracy train: 0.702961 test: 0.715517
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.994033
+accuracy train: 0.643744 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.693808
+accuracy train: 0.661891 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.265237
+accuracy train: 0.638968 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.110676
+accuracy train: 0.682904 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.844316
+accuracy train: 0.653295 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.691737
+accuracy train: 0.669532 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.859457
+accuracy train: 0.670487 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.890111
+accuracy train: 0.689589 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.779605
+accuracy train: 0.693410 test: 0.758621
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.765154
+accuracy train: 0.585482 test: 0.568966
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.720948
+accuracy train: 0.585482 test: 0.568966
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.858229
+accuracy train: 0.682904 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.775234
+accuracy train: 0.662846 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.665419
+accuracy train: 0.666667 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.680165
+accuracy train: 0.682904 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.683950
+accuracy train: 0.680993 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.675315
+accuracy train: 0.676218 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.693332
+accuracy train: 0.698185 test: 0.758621
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.676588
+accuracy train: 0.681948 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.617635
+accuracy train: 0.638968 test: 0.629310
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.683310
+accuracy train: 0.699140 test: 0.715517
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.634549
+accuracy train: 0.662846 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.626451
+accuracy train: 0.591213 test: 0.577586
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.739349
+accuracy train: 0.693410 test: 0.715517
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.778993
+accuracy train: 0.668577 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.729535
+accuracy train: 0.664756 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.592418
+accuracy train: 0.723018 test: 0.750000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.601617
+accuracy train: 0.647564 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.613738
+accuracy train: 0.730659 test: 0.767241
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.598399
+accuracy train: 0.656160 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.615943
+accuracy train: 0.671442 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.595626
+accuracy train: 0.665712 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.600744
+accuracy train: 0.687679 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.600685
+accuracy train: 0.731614 test: 0.784483
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.575747
+accuracy train: 0.667622 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.599972
+accuracy train: 0.665712 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.610960
+accuracy train: 0.542502 test: 0.620690
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.638553
+accuracy train: 0.661891 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.576928
+accuracy train: 0.686724 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.624368
+accuracy train: 0.687679 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.584659
+accuracy train: 0.714422 test: 0.758621
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.574848
+accuracy train: 0.694365 test: 0.715517
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.604303
+accuracy train: 0.695320 test: 0.715517
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.607120
+accuracy train: 0.504298 test: 0.551724
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.682739
+accuracy train: 0.659981 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.635326
+accuracy train: 0.701051 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.579449
+accuracy train: 0.685769 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.627407
+accuracy train: 0.692455 test: 0.793103
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.588963
+accuracy train: 0.685769 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.618095
+accuracy train: 0.691500 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.573349
+accuracy train: 0.712512 test: 0.741379
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.610075
+accuracy train: 0.698185 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.583364
+accuracy train: 0.510029 test: 0.560345
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.627876
+accuracy train: 0.698185 test: 0.715517
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.609941
+accuracy train: 0.659026 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.657123
+accuracy train: 0.672397 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.601595
+accuracy train: 0.693410 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.575609
+accuracy train: 0.708691 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.604313
+accuracy train: 0.692455 test: 0.715517
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.601836
+accuracy train: 0.665712 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.602515
+accuracy train: 0.730659 test: 0.775862
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.577884
+accuracy train: 0.707736 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.584393
+accuracy train: 0.712512 test: 0.715517
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.632483
+accuracy train: 0.690544 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.656432
+accuracy train: 0.700096 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.593639
+accuracy train: 0.690544 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.594347
+accuracy train: 0.674308 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.589828
+accuracy train: 0.687679 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.583302
+accuracy train: 0.692455 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.590608
+accuracy train: 0.705826 test: 0.715517
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.595499
+accuracy train: 0.743075 test: 0.767241
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.634674
+accuracy train: 0.744031 test: 0.784483
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.596545
+accuracy train: 0.711557 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.580581
+accuracy train: 0.636103 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.597535
+accuracy train: 0.704871 test: 0.715517
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.606101
+accuracy train: 0.711557 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.568478
+accuracy train: 0.715377 test: 0.741379
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loading data
+# classes: 2
+# maximum node tag: 1
+# data: 1163
+fold_idx= 8
+loss training: 36.062468
+accuracy train: 0.707736 test: 0.715517
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 19.113307
+accuracy train: 0.653295 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 4.412397
+accuracy train: 0.604585 test: 0.620690
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 3.380663
+accuracy train: 0.680038 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 4.477858
+accuracy train: 0.619866 test: 0.603448
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 2.935745
+accuracy train: 0.660936 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 3.557113
+accuracy train: 0.733524 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 2.388707
+accuracy train: 0.665712 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 2.049636
+accuracy train: 0.654250 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.527538
+accuracy train: 0.501433 test: 0.500000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.145348
+accuracy train: 0.694365 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.905560
+accuracy train: 0.666667 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.966904
+accuracy train: 0.724928 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.068468
+accuracy train: 0.650430 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.127209
+accuracy train: 0.485196 test: 0.500000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.252849
+accuracy train: 0.653295 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.041328
+accuracy train: 0.587393 test: 0.586207
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.857963
+accuracy train: 0.455587 test: 0.413793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 2.624748
+accuracy train: 0.719198 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.766230
+accuracy train: 0.668577 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.316633
+accuracy train: 0.666667 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.879768
+accuracy train: 0.693410 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.712271
+accuracy train: 0.666667 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.099999
+accuracy train: 0.582617 test: 0.586207
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.715219
+accuracy train: 0.676218 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.679592
+accuracy train: 0.650430 test: 0.612069
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.232638
+accuracy train: 0.673352 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.883955
+accuracy train: 0.699140 test: 0.715517
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.703223
+accuracy train: 0.650430 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.814243
+accuracy train: 0.660936 test: 0.612069
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.753696
+accuracy train: 0.708691 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.700025
+accuracy train: 0.632283 test: 0.594828
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.662863
+accuracy train: 0.595033 test: 0.594828
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.701302
+accuracy train: 0.607450 test: 0.603448
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.701171
+accuracy train: 0.657116 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.687613
+accuracy train: 0.691500 test: 0.715517
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.698325
+accuracy train: 0.686724 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.665308
+accuracy train: 0.683859 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.659771
+accuracy train: 0.694365 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.644130
+accuracy train: 0.680038 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.670156
+accuracy train: 0.501433 test: 0.500000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.666660
+accuracy train: 0.668577 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.653399
+accuracy train: 0.642789 test: 0.629310
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.692615
+accuracy train: 0.692455 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.652325
+accuracy train: 0.672397 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.632897
+accuracy train: 0.607450 test: 0.594828
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.992408
+accuracy train: 0.501433 test: 0.500000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.732756
+accuracy train: 0.683859 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.692864
+accuracy train: 0.674308 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.587194
+accuracy train: 0.745941 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.653220
+accuracy train: 0.682904 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.613510
+accuracy train: 0.731614 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.627887
+accuracy train: 0.656160 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.600034
+accuracy train: 0.643744 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.602344
+accuracy train: 0.669532 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.587928
+accuracy train: 0.677173 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.598288
+accuracy train: 0.721108 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.581324
+accuracy train: 0.702961 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.607641
+accuracy train: 0.669532 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.597438
+accuracy train: 0.549188 test: 0.525862
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.652611
+accuracy train: 0.691500 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.576882
+accuracy train: 0.669532 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.624931
+accuracy train: 0.705826 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.594318
+accuracy train: 0.699140 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.579961
+accuracy train: 0.687679 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.604455
+accuracy train: 0.680038 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.599781
+accuracy train: 0.719198 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.635678
+accuracy train: 0.645654 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.626492
+accuracy train: 0.679083 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.597360
+accuracy train: 0.676218 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.587574
+accuracy train: 0.744031 test: 0.715517
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.597826
+accuracy train: 0.662846 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.582878
+accuracy train: 0.714422 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.571017
+accuracy train: 0.664756 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.617676
+accuracy train: 0.681948 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.569240
+accuracy train: 0.751671 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.631478
+accuracy train: 0.685769 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.575648
+accuracy train: 0.698185 test: 0.715517
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.623196
+accuracy train: 0.691500 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.596890
+accuracy train: 0.707736 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.582814
+accuracy train: 0.694365 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.592598
+accuracy train: 0.674308 test: 0.715517
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.576546
+accuracy train: 0.677173 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.603598
+accuracy train: 0.683859 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.569794
+accuracy train: 0.687679 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.592739
+accuracy train: 0.694365 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.635649
+accuracy train: 0.696275 test: 0.715517
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.651033
+accuracy train: 0.657116 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.593615
+accuracy train: 0.677173 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.598058
+accuracy train: 0.680993 test: 0.629310
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.582410
+accuracy train: 0.681948 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.613609
+accuracy train: 0.673352 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.590121
+accuracy train: 0.692455 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.597439
+accuracy train: 0.739255 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.636558
+accuracy train: 0.756447 test: 0.741379
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.598462
+accuracy train: 0.694365 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.598077
+accuracy train: 0.620821 test: 0.620690
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.608957
+accuracy train: 0.688634 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.630562
+accuracy train: 0.686724 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.574901
+accuracy train: 0.693410 test: 0.715517
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loading data
+# classes: 2
+# maximum node tag: 1
+# data: 1163
+fold_idx= 9
+loss training: 36.130101
+accuracy train: 0.711557 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 17.452642
+accuracy train: 0.661891 test: 0.620690
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 4.798421
+accuracy train: 0.626552 test: 0.620690
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 3.812561
+accuracy train: 0.672397 test: 0.620690
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 4.173771
+accuracy train: 0.664756 test: 0.629310
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 3.991470
+accuracy train: 0.704871 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 6.409867
+accuracy train: 0.644699 test: 0.612069
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.713194
+accuracy train: 0.670487 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 2.394258
+accuracy train: 0.665712 test: 0.629310
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.510557
+accuracy train: 0.501433 test: 0.500000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.728826
+accuracy train: 0.711557 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.059646
+accuracy train: 0.677173 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.472972
+accuracy train: 0.666667 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.269832
+accuracy train: 0.501433 test: 0.500000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.190440
+accuracy train: 0.506208 test: 0.482759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.084442
+accuracy train: 0.716332 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.056689
+accuracy train: 0.574021 test: 0.560345
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.887628
+accuracy train: 0.507163 test: 0.508621
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.110697
+accuracy train: 0.509074 test: 0.517241
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.951329
+accuracy train: 0.705826 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.164345
+accuracy train: 0.710602 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.151914
+accuracy train: 0.672397 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.888573
+accuracy train: 0.659026 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.898317
+accuracy train: 0.694365 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.089028
+accuracy train: 0.668577 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.933113
+accuracy train: 0.501433 test: 0.500000
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.130421
+accuracy train: 0.634193 test: 0.603448
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.952613
+accuracy train: 0.679083 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.830492
+accuracy train: 0.659026 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 1.155512
+accuracy train: 0.683859 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.800959
+accuracy train: 0.699140 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.781461
+accuracy train: 0.521490 test: 0.491379
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.873801
+accuracy train: 0.656160 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.763682
+accuracy train: 0.659026 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.833305
+accuracy train: 0.661891 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.752865
+accuracy train: 0.688634 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.694955
+accuracy train: 0.664756 test: 0.620690
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.699692
+accuracy train: 0.697230 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.679807
+accuracy train: 0.674308 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.669472
+accuracy train: 0.697230 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.725468
+accuracy train: 0.509074 test: 0.517241
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.734975
+accuracy train: 0.698185 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.743684
+accuracy train: 0.689589 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.666891
+accuracy train: 0.672397 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.661684
+accuracy train: 0.653295 test: 0.620690
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.611571
+accuracy train: 0.621777 test: 0.603448
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.733051
+accuracy train: 0.691500 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.764562
+accuracy train: 0.673352 test: 0.629310
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.696124
+accuracy train: 0.654250 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.602462
+accuracy train: 0.508118 test: 0.517241
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.597498
+accuracy train: 0.668577 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.614099
+accuracy train: 0.738300 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.600440
+accuracy train: 0.684814 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.598629
+accuracy train: 0.648520 test: 0.612069
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.612000
+accuracy train: 0.674308 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.584580
+accuracy train: 0.682904 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.606722
+accuracy train: 0.728749 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.578749
+accuracy train: 0.684814 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.592550
+accuracy train: 0.682904 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.605885
+accuracy train: 0.747851 test: 0.715517
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.614905
+accuracy train: 0.712512 test: 0.715517
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.576149
+accuracy train: 0.686724 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.627044
+accuracy train: 0.730659 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.612506
+accuracy train: 0.691500 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.590997
+accuracy train: 0.671442 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.617711
+accuracy train: 0.698185 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.598323
+accuracy train: 0.543457 test: 0.560345
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.640926
+accuracy train: 0.682904 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.630143
+accuracy train: 0.695320 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.598603
+accuracy train: 0.678128 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.598677
+accuracy train: 0.744986 test: 0.724138
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.623321
+accuracy train: 0.688634 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.596896
+accuracy train: 0.686724 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.569398
+accuracy train: 0.682904 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.617107
+accuracy train: 0.670487 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.572680
+accuracy train: 0.577841 test: 0.620690
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.607704
+accuracy train: 0.675263 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.598325
+accuracy train: 0.669532 test: 0.646552
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.627360
+accuracy train: 0.667622 test: 0.629310
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.610653
+accuracy train: 0.684814 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.585639
+accuracy train: 0.698185 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.614434
+accuracy train: 0.684814 test: 0.663793
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.596760
+accuracy train: 0.672397 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.586881
+accuracy train: 0.693410 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.575604
+accuracy train: 0.696275 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.593129
+accuracy train: 0.705826 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.608965
+accuracy train: 0.683859 test: 0.655172
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.670533
+accuracy train: 0.705826 test: 0.715517
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.588478
+accuracy train: 0.708691 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.597260
+accuracy train: 0.683859 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.602683
+accuracy train: 0.690544 test: 0.672414
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.592949
+accuracy train: 0.741165 test: 0.732759
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.584182
+accuracy train: 0.692455 test: 0.698276
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.590822
+accuracy train: 0.736390 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.610145
+accuracy train: 0.741165 test: 0.706897
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.588767
+accuracy train: 0.709647 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.595931
+accuracy train: 0.648520 test: 0.637931
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.597524
+accuracy train: 0.712512 test: 0.715517
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.601613
+accuracy train: 0.687679 test: 0.681034
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)
+loss training: 0.571760
+accuracy train: 0.701051 test: 0.689655
+
+Parameter containing:
+tensor([0., 0., 0., 0.], requires_grad=True)

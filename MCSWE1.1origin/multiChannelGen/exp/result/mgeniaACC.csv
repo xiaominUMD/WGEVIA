@@ -1,0 +1,1628 @@
+"MGENIA origin on SIMU, opcode origin_10 nT: 10 d: 8 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.002019036359450782"
+Channel 0 Doc2Vec Runtime(s): 108.81991624832153
+WGEVIA finished in 115.20733714103699 s
+model 2 Acc 1.0
+test std: 0.0
+train std: 0.0
+test bacc: 1.0
+train bacc: 1.0
+model 3 Acc 0.9974204643164231
+test std: 0.005480849352259785
+train std: 0.0
+test bacc: 0.9974137931034484
+train bacc: 1.0
+model 1 Acc 1.0
+test std: 0.0
+train std: 0.0
+test bacc: 1.0
+train bacc: 1.0
+model 0 Acc 0.9974204643164231
+test std: 0.003928032408425222
+train std: 0.0003801990701622406
+test bacc: 0.9974271012006861
+train bacc: 0.9982850513035869
+"MGENIA origin on REAL, opcode origin_12 nT: 10 d: 8 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.006827170294421853"
+Channel 0 Doc2Vec Runtime(s): 8791.506373643875
+WGEVIA finished in 20962.62832403183 s
+model 2 Acc 0.9969785138764548
+test std: 0.0014199086
+train std: 0.001344599730904681
+test bacc: 0.993010959545815
+train bacc: 0.9960529676532239
+model 3 Acc 0.997370188003581
+test std: 0.0010631901650127928
+train std: 0.00017457816314114756
+test bacc: 0.9927469158445785
+train bacc: 0.9997299821516593
+model 1 Acc 0.9966427931960609
+test std: 0.0013478964
+train std: 0.0014190863419349946
+test bacc: 0.9904123673803659
+train bacc: 0.9955679481806448
+model 0 Acc 0.9658683974932856
+test std: 0.003710955038885562
+train std: 0.002336709121365214
+test bacc: 0.9071879936808847
+train bacc: 0.9092064353992708
+"MGENIA origin on REAL, opcode origin_12 nT: 1 d: 8 w: 1"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.0014213906032439312"
+Channel 0 Doc2Vec Runtime(s): 844.9530918598175
+WGEVIA finished in 922.0479955673218 s
+model 2 Acc 0.9952439570277529
+test std: 0.0012818779
+train std: 0.002010018928993427
+test bacc: 0.9872213581533054
+train bacc: 0.9926680424550763
+model 3 Acc 0.9936213070725156
+test std: 0.0013746987502780957
+train std: 0.0010765635351091315
+test bacc: 0.9812529651421557
+train bacc: 0.9859803263089834
+model 1 Acc 0.9932855863921217
+test std: 0.001542499
+train std: 0.004467501245234874
+test bacc: 0.9817893399980762
+train bacc: 0.9899960107871054
+model 0 Acc 0.9538943598925694
+test std: 0.00472746533918627
+train std: 0.0012522173957630212
+test bacc: 0.8983451449923946
+train bacc: 0.8983156260129406
+"MGENIA origin on REAL, opcode origin_12 nT: 1 d: 8 w: 2"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.0028683527330255125"
+Channel 0 Doc2Vec Runtime(s): 1954.2462446689606
+WGEVIA finished in 2057.285562992096 s
+model 2 Acc 0.9949641897940913
+test std: 0.0019218669
+train std: 0.0044708919843698056
+test bacc: 0.9856185510705489
+train bacc: 0.9917844923802843
+model 3 Acc 0.9945165622202328
+test std: 0.0012947396509749823
+train std: 0.0009058954129667658
+test bacc: 0.9839222044517483
+train bacc: 0.9861436959461003
+model 1 Acc 0.9943487018800358
+test std: 0.00163077
+train std: 0.004076700680294502
+test bacc: 0.9845521188437127
+train bacc: 0.9897183132847356
+model 0 Acc 0.9397381378692927
+test std: 0.0034357804287417
+train std: 0.0031506528787935448
+test bacc: 0.8103944094197642
+train bacc: 0.8095986763852496
+"MGENIA origin on REAL, opcode origin_12 nT: 1 d: 8 w: 3"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.004291039003574539"
+Channel 0 Doc2Vec Runtime(s): 3644.6850204467773
+WGEVIA finished in 3774.525965452194 s
+model 2 Acc 0.9952439570277529
+test std: 0.0023369677
+train std: 0.003152538750285588
+test bacc: 0.9874625094626415
+train bacc: 0.9921824913440114
+model 3 Acc 0.9936213070725156
+test std: 0.0011789253214098362
+train std: 0.0010216508294377407
+test bacc: 0.9795649059768028
+train bacc: 0.985343463736787
+model 1 Acc 0.9940689346463742
+test std: 0.0017724354
+train std: 0.004967910462018286
+test bacc: 0.98270816045162
+train bacc: 0.9891520258555383
+model 0 Acc 0.9256378692927484
+test std: 0.00691619180757594
+train std: 0.002542758005993622
+test bacc: 0.7347735704686242
+train bacc: 0.7353547709590387
+"MGENIA origin on REAL, opcode origin_12 nT: 1 d: 8 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.005692943210247487"
+Channel 0 Doc2Vec Runtime(s): 5772.505570888519
+WGEVIA finished in 5928.628488540649 s
+model 2 Acc 0.9939570277529096
+test std: 0.002850832
+train std: 0.008730257585516724
+test bacc: 0.9802342876675627
+train bacc: 0.9860339923421624
+model 3 Acc 0.993677260519248
+test std: 0.002279525597686346
+train std: 0.0013237873169772319
+test bacc: 0.9815252962968397
+train bacc: 0.9886874519557465
+model 1 Acc 0.993845120859445
+test std: 0.0032718256
+train std: 0.004398474085773259
+test bacc: 0.9837891976169089
+train bacc: 0.9880192768357207
+model 0 Acc 0.9062220232766338
+test std: 0.005885409666381813
+train std: 0.002611340783735317
+test bacc: 0.5959028188753953
+train bacc: 0.5966491625616749
+"MGENIA origin on REAL, opcode origin_12 nT: 1 d: 8 w: 5"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.007034172543267"
+Channel 0 Doc2Vec Runtime(s): 8422.291493654251
+WGEVIA finished in 8604.197731256485 s
+model 2 Acc 0.9940129811996419
+test std: 0.0023353165
+train std: 0.0040964975040301286
+test bacc: 0.9850884936996334
+train bacc: 0.9896328698131918
+model 3 Acc 0.9945165622202328
+test std: 0.001902917506476365
+train std: 0.00069180974499683
+test bacc: 0.9827164479050676
+train bacc: 0.9882183398792457
+model 1 Acc 0.9937332139659804
+test std: 0.0022908493
+train std: 0.0032693394617329826
+test bacc: 0.9796272656674987
+train bacc: 0.9872000736054758
+model 0 Acc 0.8998992837958818
+test std: 0.007397966408466178
+train std: 0.0018922625443952487
+test bacc: 0.5521072276919415
+train bacc: 0.5533684308746866
+"MGENIA origin on REAL, opcode origin_12 nT: 1 d: 8 w: 6"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.009114403767893116"
+Channel 0 Doc2Vec Runtime(s): 11495.869621753693
+WGEVIA finished in 11717.108609676361 s
+model 2 Acc 0.9941808415398389
+test std: 0.0012809493
+train std: 0.0043396985669348215
+test bacc: 0.9839762766889966
+train bacc: 0.9903516210188374
+model 3 Acc 0.9937891674127126
+test std: 0.00249607823625272
+train std: 0.0008276514113480761
+test bacc: 0.9806230507501912
+train bacc: 0.984436785675759
+model 1 Acc 0.9923903312444047
+test std: 0.0016452604
+train std: 0.005017126963755495
+test bacc: 0.977914344141803
+train bacc: 0.9857436610982095
+model 0 Acc 0.8972694717994628
+test std: 0.008454714006069052
+train std: 0.0
+test bacc: 0.5
+train bacc: 0.5
+"MGENIA origin on REAL, opcode origin_12 nT: 1 d: 4 w: 1"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.0014557651541760273"
+Channel 0 Doc2Vec Runtime(s): 795.4478862285614
+WGEVIA finished in 872.2003819942474 s
+model 2 Acc 0.9729185317815577
+test std: 0.0040213177
+train std: 0.018425444907384767
+test bacc: 0.9226919170428627
+train bacc: 0.9272241541855569
+model 3 Acc 0.9569158460161146
+test std: 0.0030725093622885127
+train std: 0.0027160959025293173
+test bacc: 0.8691614890461603
+train bacc: 0.8761140576273547
+model 1 Acc 0.9589861235452104
+test std: 0.004594393
+train std: 0.016289827340147278
+test bacc: 0.8934656690203034
+train bacc: 0.9001948959082284
+model 0 Acc 0.8969897045658013
+test std: 0.006639546918839007
+train std: 8.20734845931705e-05
+test bacc: 0.4998441007732602
+train bacc: 0.49982674901532836
+"MGENIA origin on REAL, opcode origin_12 nT: 1 d: 4 w: 2"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.0028524333969652386"
+Channel 0 Doc2Vec Runtime(s): 1831.9897232055664
+WGEVIA finished in 1934.6698713302612 s
+model 2 Acc 0.9762197851387645
+test std: 0.0034403657
+train std: 0.017457054462915608
+test bacc: 0.9382771525505521
+train bacc: 0.942601671527863
+model 3 Acc 0.9354856759176365
+test std: 0.007070674021348173
+train std: 0.008557178032100012
+test bacc: 0.7730578013195799
+train bacc: 0.7777070437655147
+model 1 Acc 0.9505371530886303
+test std: 0.0047765174
+train std: 0.03984978640225133
+test bacc: 0.8484852437136269
+train bacc: 0.8478161331899422
+model 0 Acc 0.8972694717994628
+test std: 0.004563578895448296
+train std: 0.0
+test bacc: 0.5
+train bacc: 0.5
+"MGENIA origin on REAL, opcode origin_12 nT: 1 d: 4 w: 3"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.004312298318159399"
+Channel 0 Doc2Vec Runtime(s): 3481.9431879520416
+WGEVIA finished in 3611.741223335266 s
+model 2 Acc 0.9685541629364369
+test std: 0.0062577575
+train std: 0.026663553529596585
+test bacc: 0.9062731131642259
+train bacc: 0.9227201005483051
+model 3 Acc 0.8983325872873769
+test std: 0.006216406144014778
+train std: 0.0006633100102123438
+test bacc: 0.507344653723023
+train bacc: 0.5075313353665892
+model 1 Acc 0.9178043867502238
+test std: 0.004839944
+train std: 0.047682320338566196
+test bacc: 0.676390498828616
+train bacc: 0.6818754451392903
+model 0 Acc 0.8972694717994628
+test std: 0.00848438507252041
+train std: 0.0
+test bacc: 0.5
+train bacc: 0.5
+"MGENIA origin on REAL, opcode origin_12 nT: 1 d: 4 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.005732541972222665"
+Channel 0 Doc2Vec Runtime(s): 5702.212627649307
+WGEVIA finished in 5860.668581962585 s
+model 2 Acc 0.9457811101163832
+test std: 0.008076145
+train std: 0.022354781422625713
+test bacc: 0.8029100237972189
+train bacc: 0.8176641327381878
+model 3 Acc 0.9024171888988362
+test std: 0.008052349440463555
+train std: 0.0019251455904919132
+test bacc: 0.5322890055110207
+train bacc: 0.5328478097770206
+model 1 Acc 0.9120411817367949
+test std: 0.006556326
+train std: 0.03752841077298897
+test bacc: 0.6153026605171045
+train bacc: 0.6201283174179003
+model 0 Acc 0.8972694717994628
+test std: 0.006920498345768961
+train std: 0.0
+test bacc: 0.5
+train bacc: 0.5
+"MGENIA origin on REAL, opcode origin_12 nT: 1 d: 4 w: 5"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.007155632922023989"
+Channel 0 Doc2Vec Runtime(s): 8108.008936166763
+WGEVIA finished in 8291.923976659775 s
+model 2 Acc 0.9721911369740376
+test std: 0.0039794445
+train std: 0.026762012756104778
+test bacc: 0.9179458554852888
+train bacc: 0.927137008852769
+model 3 Acc 0.9244628469113697
+test std: 0.004295989385450398
+train std: 0.005204169837437887
+test bacc: 0.6521273485420331
+train bacc: 0.6551400395139855
+model 1 Acc 0.9397381378692927
+test std: 0.0062815826
+train std: 0.032441638139518385
+test bacc: 0.7732571077820003
+train bacc: 0.7771650435426966
+model 0 Acc 0.8972694717994628
+test std: 0.0054840082826696996
+train std: 0.0
+test bacc: 0.5
+train bacc: 0.5
+"MGENIA origin on REAL, opcode origin_12 nT: 1 d: 4 w: 6"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.008620656446462885"
+Channel 0 Doc2Vec Runtime(s): 10976.335662603378
+WGEVIA finished in 11188.479468345642 s
+model 2 Acc 0.9698410922112802
+test std: 0.0048907697
+train std: 0.02481664152155911
+test bacc: 0.9103663679379348
+train bacc: 0.9253302647546467
+model 3 Acc 0.9099149507609668
+test std: 0.006731568734005315
+train std: 0.004952914480128895
+test bacc: 0.5726398011880676
+train bacc: 0.5746874835745067
+model 1 Acc 0.9333594449418084
+test std: 0.005810134
+train std: 0.031637539794552104
+test bacc: 0.7405232969826605
+train bacc: 0.7536789087589922
+model 0 Acc 0.8972694717994628
+test std: 0.009557286468777461
+train std: 0.0
+test bacc: 0.5
+train bacc: 0.5
+"MGENIA origin on SIMU, opcode origin_10 nT: 10 d: 8 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.002005880696960082"
+"MGENIA origin on REAL, opcode origin_12 nT: 10 d: 8 w: 4"
+"MGENIA origin on REAL, opcode origin_12 nT: 10 d: 8 w: 1"
+"MGENIA origin on REAL, opcode origin_12 nT: 10 d: 8 w: 2"
+"MGENIA origin on SIMU, opcode origin_10 nT: 2 d: 2 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.0015566920988127166"
+Channel 0 Doc2Vec Runtime(s): 76.158775806427
+WGEVIA finished in 79.04498100280762 s
+"MGENIA origin on SIMU, opcode origin_10 nT: 2 d: 4 w: 4"
+############################################################
+plot exps:
+############################################################
+"MGENIA origin on REAL, opcode origin_12 nT: 10 d: 2 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.006792345386908966"
+Channel 0 Doc2Vec Runtime(s): 8414.18336558342
+WGEVIA finished in 19438.4111058712 s
+model 2 Acc 0.9458930170098478
+test std: 0.0053321305
+train std: 0.033262134997843994
+test bacc: 0.8290167248962166
+train bacc: 0.8949031318034606
+model 3 Acc 0.9272045658012533
+test std: 0.00638990901821848
+train std: 0.0031737320259615353
+test bacc: 0.6898278573645029
+train bacc: 0.7172463582627472
+model 1 Acc 0.9260295434198746
+test std: 0.0053650276
+train std: 0.01974858381903544
+test bacc: 0.7251046257032787
+train bacc: 0.7552809870679986
+model 0 Acc 0.8968777976723367
+test std: 0.005908408911836659
+train std: 0.0008352267419164541
+test bacc: 0.521726510232152
+train bacc: 0.521791342356454
+"MGENIA origin on REAL, opcode origin_12 nT: 10 d: 3 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.007104225423363777"
+Channel 0 Doc2Vec Runtime(s): 8536.212804794312
+WGEVIA finished in 20024.27095413208 s
+model 2 Acc 0.9814794091316025
+test std: 0.0038485127
+train std: 0.010508003961158145
+test bacc: 0.9457899328906474
+train bacc: 0.96286992271661
+model 3 Acc 0.9801924798567592
+test std: 0.004307549179652427
+train std: 0.00195573622013722
+test bacc: 0.937114803239552
+train bacc: 0.9546789382136307
+model 1 Acc 0.9657564905998209
+test std: 0.0038858633
+train std: 0.03406009184948884
+test bacc: 0.8880746805526346
+train bacc: 0.9074947253599353
+model 0 Acc 0.8959265890778872
+test std: 0.007131494709452909
+train std: 9.657830010732402e-05
+test bacc: 0.4992516837116488
+train bacc: 0.4994526046845955
+"MGENIA origin on REAL, opcode origin_12 nT: 10 d: 4 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.007250483215335447"
+Channel 0 Doc2Vec Runtime(s): 8563.605913162231
+WGEVIA finished in 20244.913759231567 s
+model 2 Acc 0.9948522829006267
+test std: 0.001195397
+train std: 0.007058726133649229
+test bacc: 0.9860384939985252
+train bacc: 0.9925983657086507
+model 3 Acc 0.9969225604297225
+test std: 0.000944458662641657
+train std: 0.0001566425229522814
+test bacc: 0.9915328718444503
+train bacc: 0.9996324333863764
+model 1 Acc 0.9941808415398389
+test std: 0.0021978784
+train std: 0.004843826100728789
+test bacc: 0.9854231845450134
+train bacc: 0.9922484051712429
+model 0 Acc 0.9249104744852283
+test std: 0.006915830806960439
+train std: 0.001505681763608524
+test bacc: 0.794897211122469
+train bacc: 0.7965245326299122
+"MGENIA origin on REAL, opcode origin_12 nT: 10 d: 5 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.007401229351785638"
+Channel 0 Doc2Vec Runtime(s): 8855.865219831467
+WGEVIA finished in 20277.806394815445 s
+model 2 Acc 0.9958594449418084
+test std: 0.0016639548
+train std: 0.0025172854626023533
+test bacc: 0.9868408825241246
+train bacc: 0.9936874211337727
+model 3 Acc 0.997202327663384
+test std: 0.0012514371559420037
+train std: 0.00010543927184962616
+test bacc: 0.99168877107119
+train bacc: 0.9999385991252145
+model 1 Acc 0.9953558639212176
+test std: 0.0017516196
+train std: 0.0018406015083871877
+test bacc: 0.9872837178440013
+train bacc: 0.9931087096329925
+model 0 Acc 0.943990599820949
+test std: 0.00521536767676025
+train std: 0.003081989191677488
+test bacc: 0.8453195044265871
+train bacc: 0.8466819941850785
+"MGENIA origin on REAL, opcode origin_12 nT: 10 d: 6 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.006809297772316177"
+Channel 0 Doc2Vec Runtime(s): 8619.266753673553
+WGEVIA finished in 20214.65323495865 s
+model 2 Acc 0.9970904207699194
+test std: 0.0010256234
+train std: 0.001898020798957246
+test bacc: 0.9925910166178387
+train bacc: 0.9945500620785515
+model 3 Acc 0.9977618621307073
+test std: 0.001000880413060776
+train std: 0.00013368830632051978
+test bacc: 0.9936886286900226
+train bacc: 0.9997847299277975
+model 1 Acc 0.996307072515667
+test std: 0.0013751172
+train std: 0.002178875994755287
+test bacc: 0.9890195317615974
+train bacc: 0.9939330991105233
+model 0 Acc 0.9599373321396598
+test std: 0.0033583522977768004
+train std: 0.0016715910202077051
+test bacc: 0.8889315488951601
+train bacc: 0.8909041033662624
+"MGENIA origin on REAL, opcode origin_12 nT: 10 d: 7 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.00669998674917776"
+Channel 0 Doc2Vec Runtime(s): 8738.258672475815
+WGEVIA finished in 20502.483428955078 s
+model 2 Acc 0.9966987466427932
+test std: 0.001045633
+train std: 0.0012951523787734906
+test bacc: 0.9921316063910668
+train bacc: 0.9962142687066002
+model 3 Acc 0.9971463742166518
+test std: 0.0010746448585996625
+train std: 8.35937733716207e-05
+test bacc: 0.9921398938445143
+train bacc: 0.9996084896130478
+model 1 Acc 0.9959713518352731
+test std: 0.0013657153
+train std: 0.0028337986101049473
+test bacc: 0.989555906617518
+train bacc: 0.9940300910523007
+model 0 Acc 0.9616718889883616
+test std: 0.005974294212576125
+train std: 0.001933794420459687
+test bacc: 0.8749467429221072
+train bacc: 0.8769177368175445
+"MGENIA origin on REAL, opcode origin_12 nT: 10 d: 9 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.0067515653243743635"
+Channel 0 Doc2Vec Runtime(s): 8974.958413124084
+WGEVIA finished in 21109.88574528694 s
+model 2 Acc 0.9969785138764548
+test std: 0.0014636463
+train std: 0.0013863332306484036
+test bacc: 0.9922875056178065
+train bacc: 0.996349199408311
+model 3 Acc 0.9969785138764548
+test std: 0.001096722512545477
+train std: 0.00011891607871950726
+test bacc: 0.9927698082364789
+train bacc: 0.9999151068942052
+model 1 Acc 0.9966987466427932
+test std: 0.0015917144
+train std: 0.0016166110832289088
+test bacc: 0.9902023959163777
+train bacc: 0.9960421432667952
+model 0 Acc 0.9642457475380484
+test std: 0.0051375389601777
+train std: 0.002002626142041872
+test bacc: 0.90338996245376
+train bacc: 0.9075365037264428
+"MGENIA origin on REAL, opcode origin_12 nT: 10 d: 10 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.006850313852168453"
+Channel 0 Doc2Vec Runtime(s): 9021.111953020096
+WGEVIA finished in 21468.181646347046 s
+model 2 Acc 0.9973142345568488
+test std: 0.00092937687
+train std: 0.0013499127239745253
+test bacc: 0.9922334333805582
+train bacc: 0.9971187533779162
+model 3 Acc 0.997370188003581
+test std: 0.001175212111896852
+train std: 0.00010895412771044423
+test bacc: 0.9929880671539146
+train bacc: 0.9999154527133853
+model 1 Acc 0.9972582811101164
+test std: 0.0008827313
+train std: 0.0016958437546742602
+test bacc: 0.9924434048445464
+train bacc: 0.9960546088456719
+model 0 Acc 0.9721911369740376
+test std: 0.003153761438032685
+train std: 0.0011272229950199714
+test bacc: 0.9256626973840449
+train bacc: 0.9276513286305921
+"MGENIA origin on REAL, opcode origin_12 nT: 2 d: 8 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.006559139212648465"
+Channel 0 Doc2Vec Runtime(s): 6779.948984384537
+WGEVIA finished in 6960.387296676636 s
+model 2 Acc 0.9963630259623992
+test std: 0.0015067164
+train std: 0.0014138018685254641
+test bacc: 0.9917033760096428
+train bacc: 0.9955222318943532
+model 3 Acc 0.9971463742166518
+test std: 0.0014036196398073998
+train std: 0.0005144295418638509
+test bacc: 0.9911752886071699
+train bacc: 0.995973430398112
+model 1 Acc 0.99613921217547
+test std: 0.0012870838
+train std: 0.0028113512954810044
+test bacc: 0.9869967817508645
+train bacc: 0.9934133841265747
+model 0 Acc 0.9584265890778872
+test std: 0.004513679300941421
+train std: 0.0013605907995526251
+test bacc: 0.8519169966703457
+train bacc: 0.8517658059053289
+"MGENIA origin on REAL, opcode origin_12 nT: 3 d: 8 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.0065210205081753575"
+Channel 0 Doc2Vec Runtime(s): 7590.340972900391
+WGEVIA finished in 7777.173343420029 s
+model 2 Acc 0.9966987466427932
+test std: 0.001131827
+train std: 0.0013035802454019617
+test bacc: 0.9899612446070416
+train bacc: 0.9948893720565412
+model 3 Acc 0.9976499552372426
+test std: 0.0009948391094217826
+train std: 0.0005737256093449565
+test bacc: 0.9926616637619822
+train bacc: 0.9976142579136476
+model 1 Acc 0.9966427931960609
+test std: 0.00096896384
+train std: 0.000700892436276034
+test bacc: 0.9901712160710296
+train bacc: 0.9940792419472537
+model 0 Acc 0.9353178155774395
+test std: 0.0077669201835293715
+train std: 0.0024619304225418264
+test bacc: 0.7777872879702586
+train bacc: 0.7794834716636473
+"MGENIA origin on REAL, opcode origin_12 nT: 4 d: 8 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.006822028339923015"
+Channel 0 Doc2Vec Runtime(s): 8476.558032751083
+WGEVIA finished in 8673.055312633514 s
+model 2 Acc 0.9970344673231871
+test std: 0.0012523432
+train std: 0.0014100239308309887
+test bacc: 0.9918363828444823
+train bacc: 0.9957049950881134
+model 3 Acc 0.9972582811101164
+test std: 0.0010746057441196864
+train std: 0.0002633577334286263
+test bacc: 0.9922022535352102
+train bacc: 0.9994457882382157
+model 1 Acc 0.9976499552372426
+test std: 0.00085922587
+train std: 0.0018105926165278455
+test bacc: 0.9919382098339737
+train bacc: 0.9945042103562713
+model 0 Acc 0.9457811101163832
+test std: 0.005644710348408305
+train std: 0.0021476141192766835
+test bacc: 0.8178614049760587
+train bacc: 0.8209283173548366
+"MGENIA origin on REAL, opcode origin_12 nT: 5 d: 8 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.006819359417888023"
+Channel 0 Doc2Vec Runtime(s): 8946.196504116058
+WGEVIA finished in 11503.796628952026 s
+model 2 Acc 0.9965308863025962
+test std: 0.0013192592
+train std: 0.0018360648360641915
+test bacc: 0.9898677050709976
+train bacc: 0.9955276684855232
+model 3 Acc 0.997538048343778
+test std: 0.0007992909772883413
+train std: 0.00021945542356704333
+test bacc: 0.9933227579992946
+train bacc: 0.999605455283717
+model 1 Acc 0.9967547000895255
+test std: 0.0012705638
+train std: 0.001134794398231685
+test bacc: 0.9916804836177424
+train bacc: 0.9958301744005794
+model 0 Acc 0.9584825425246195
+test std: 0.003175938324297673
+train std: 0.0015196877978973337
+test bacc: 0.8849859058947434
+train bacc: 0.8855241505287837
+"MGENIA origin on REAL, opcode origin_12 nT: 6 d: 8 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.006644714166782963"
+Channel 0 Doc2Vec Runtime(s): 8848.805790185928
+WGEVIA finished in 13385.845479726791 s
+model 2 Acc 0.9965308863025962
+test std: 0.0008222568
+train std: 0.0016636743569070367
+test bacc: 0.9898677050709976
+train bacc: 0.9945287429154183
+model 3 Acc 0.9975940017905103
+test std: 0.001175060147117923
+train std: 0.00024786770674586786
+test bacc: 0.9935950891539787
+train bacc: 0.999047141527031
+model 1 Acc 0.9968666069829901
+test std: 0.0021112433
+train std: 0.0023051460002933826
+test bacc: 0.9915016919991022
+train bacc: 0.9956115113711149
+model 0 Acc 0.9607766338406446
+test std: 0.0028936770093651166
+train std: 0.001573548145249488
+test bacc: 0.8824058586046319
+train bacc: 0.8843424801273739
+"MGENIA origin on REAL, opcode origin_12 nT: 7 d: 8 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.0067542131286491315"
+Channel 0 Doc2Vec Runtime(s): 8896.226517677307
+WGEVIA finished in 15035.68401813507 s
+model 2 Acc 0.9968106535362579
+test std: 0.0015838953
+train std: 0.0013594067173324457
+test bacc: 0.9902647556070736
+train bacc: 0.9961053602766613
+model 3 Acc 0.997538048343778
+test std: 0.0010670134611280259
+train std: 0.00015365259453249235
+test bacc: 0.9925993040712862
+train bacc: 0.9996465682666322
+model 1 Acc 0.9965308863025962
+test std: 0.0016741959
+train std: 0.002335507135415267
+test bacc: 0.988661948524317
+train bacc: 0.9943711364846146
+model 0 Acc 0.9698410922112802
+test std: 0.0028985061554579966
+train std: 0.0020189394231482313
+test bacc: 0.9038552825858595
+train bacc: 0.9069013242113453
+"MGENIA origin on REAL, opcode origin_12 nT: 8 d: 8 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.00673126906236582"
+Channel 0 Doc2Vec Runtime(s): 8927.551693439484
+WGEVIA finished in 16537.41446185112 s
+model 2 Acc 0.9966987466427932
+test std: 0.0016493322
+train std: 0.0020232191034878742
+test bacc: 0.9887554880603608
+train bacc: 0.9952835238835082
+model 3 Acc 0.9976499552372426
+test std: 0.0008953476707483259
+train std: 0.00019465993656498997
+test bacc: 0.9926616637619822
+train bacc: 0.9994847046590513
+model 1 Acc 0.9975940017905103
+test std: 0.00097094825
+train std: 0.0014554466657405475
+test bacc: 0.9926304839166342
+train bacc: 0.9966948549092921
+model 0 Acc 0.9648052820053715
+test std: 0.004424836314316426
+train std: 0.002330696549183898
+test bacc: 0.9063544253099372
+train bacc: 0.9077351043456068
+"MGENIA origin on REAL, opcode origin_12 nT: 9 d: 8 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.0067735871461852915"
+Channel 0 Doc2Vec Runtime(s): 8914.580554246902
+WGEVIA finished in 18373.14762210846 s
+model 2 Acc 0.9966987466427932
+test std: 0.0020855798
+train std: 0.0022576042366640454
+test bacc: 0.9897200932977055
+train bacc: 0.9949238566048025
+model 3 Acc 0.9977059086839749
+test std: 0.001262396353541642
+train std: 0.00034713533867542076
+test bacc: 0.9931751462260023
+train bacc: 0.9993111781974113
+model 1 Acc 0.9962511190689346
+test std: 0.0014161832
+train std: 0.0012183375951794302
+test bacc: 0.9911587137002746
+train bacc: 0.9963817701422432
+model 0 Acc 0.9636302596239928
+test std: 0.006284121800392114
+train std: 0.002387410384132922
+test bacc: 0.9122107339097053
+train bacc: 0.9128867572232503
+"MGENIA origin on REAL, opcode origin_12 nT: 11 d: 8 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.006837424294374409"
+Channel 0 Doc2Vec Runtime(s): 9028.258833408356
+WGEVIA finished in 22588.4519841671 s
+model 2 Acc 0.9968106535362579
+test std: 0.0012517127
+train std: 0.0020633869771757084
+test bacc: 0.9909882095350819
+train bacc: 0.9946571983961597
+model 3 Acc 0.9968666069829901
+test std: 0.0007994706664974914
+train std: 0.0002425036706942447
+test bacc: 0.9907782380710939
+train bacc: 0.9995715399306201
+model 1 Acc 0.9962511190689346
+test std: 0.0017345279
+train std: 0.0018019253862671422
+test bacc: 0.9892295032255856
+train bacc: 0.9955512871513935
+model 0 Acc 0.9629028648164727
+test std: 0.002673242771196047
+train std: 0.0005495254623752088
+test bacc: 0.9098761854454928
+train bacc: 0.9113376753633038
+"MGENIA origin on REAL, opcode origin_12 nT: 12 d: 8 w: 4"
+"MGENIA origin on REAL, opcode origin_12 nT: 12 d: 8 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.006942366609214776"
+"MGENIA origin on REAL, opcode origin_12 nT: 10 d: 8 w: 1"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.0016727922425914686"
+Channel 0 Doc2Vec Runtime(s): 1047.9343619346619
+WGEVIA finished in 2894.9593341350555 s
+model 2 Acc 0.9960832587287377
+test std: 0.0011194559
+train std: 0.00286436214911288
+test bacc: 0.9893771149988778
+train bacc: 0.9951746827809937
+Average train time: 140.63491942882538
+Average test time: 3.587523797099071e-05
+model 3 Acc 0.9977059086839749
+test std: 0.0007276784612993708
+train std: 0.0
+test bacc: 0.9931751462260023
+train bacc: 1.0
+Average train time: 24.704660749435426
+Average test time: 0.00020888588578328802
+model 1 Acc 0.996307072515667
+test std: 0.0011791016
+train std: 0.0028655519002225645
+test bacc: 0.9895018343802697
+train bacc: 0.9941354224766054
+Average train time: 130.05076518058777
+Average test time: 3.555992470735507e-05
+model 0 Acc 0.9661481647269472
+test std: 0.0032673577408018984
+train std: 0.0011417859453214372
+test bacc: 0.9196426096837671
+train bacc: 0.9228951217063441
+Average train time: 0.22039494514465333
+Average test time: 3.9138232143652325e-07
+"MGENIA origin on REAL, opcode origin_12 nT: 10 d: 8 w: 2"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.0036798762816238743"
+Channel 0 Doc2Vec Runtime(s): 2528.7617015838623
+WGEVIA finished in 6381.238715171814 s
+model 2 Acc 0.996474932855864
+test std: 0.0012524915
+train std: 0.0015556607428570562
+test bacc: 0.9900776765349858
+train bacc: 0.995429987145075
+Average train time: 140.91383786201476
+Average test time: 3.5364704973039474e-05
+model 3 Acc 0.9975940017905103
+test std: 0.001002689791653587
+train std: 0.00014923485072282938
+test bacc: 0.9931127865353064
+train bacc: 0.999760929440292
+Average train time: 29.438906359672547
+Average test time: 0.0002463625478722479
+model 1 Acc 0.9975940017905103
+test std: 0.0013488253
+train std: 0.001430359978167386
+test bacc: 0.994077391772651
+train bacc: 0.995286862461076
+Average train time: 129.20177891254426
+Average test time: 3.574330430244716e-05
+model 0 Acc 0.9682743957027753
+test std: 0.003334505511140218
+train std: 0.0015390927797824191
+test bacc: 0.9176924767856202
+train bacc: 0.9180998786562128
+Average train time: 0.22012121677398683
+Average test time: 3.516229687031548e-07
+"MGENIA origin on REAL, opcode origin_12 nT: 10 d: 8 w: 3"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.005033740665406763"
+Channel 0 Doc2Vec Runtime(s): 5350.577814102173
+WGEVIA finished in 12600.507453680038 s
+model 2 Acc 0.9970344673231871
+test std: 0.0007528802
+train std: 0.0020325927974917542
+test bacc: 0.9915952315351462
+train bacc: 0.9953377013740459
+Average train time: 141.47219965457916
+Average test time: 3.510383185547773e-05
+model 3 Acc 0.997538048343778
+test std: 0.0007589362336377078
+train std: 0.0001888148773767511
+test bacc: 0.9928404553806224
+train bacc: 0.9998847451177992
+Average train time: 32.37368519306183
+Average test time: 0.00026310168945053704
+model 1 Acc 0.9971463742166518
+test std: 0.0012621148
+train std: 0.0019370235300293615
+test bacc: 0.9923810451538504
+train bacc: 0.9957589699413039
+Average train time: 130.482559466362
+Average test time: 3.59171219735284e-05
+model 0 Acc 0.9751566696508505
+test std: 0.0027100528751912026
+train std: 0.0009455064387591273
+test bacc: 0.9359966763235879
+train bacc: 0.9381030518598426
+Average train time: 0.22351794242858886
+Average test time: 5.473580873330015e-07
+"MGENIA origin on REAL, opcode origin_12 nT: 10 d: 8 w: 5"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.008594846554707498"
+Channel 0 Doc2Vec Runtime(s): 12829.418137311935
+WGEVIA finished in 30241.329400777817 s
+model 2 Acc 0.9971463742166518
+test std: 0.0014034722
+train std: 0.0016609017612292582
+test bacc: 0.9938279530098673
+train bacc: 0.996209724518313
+Average train time: 141.79027976989747
+Average test time: 3.633511354629342e-05
+model 3 Acc 0.9977059086839749
+test std: 0.001015096635982289
+train std: 0.000265157545464816
+test bacc: 0.9929339949166662
+train bacc: 0.9998478121399946
+Average train time: 72.66620409488678
+Average test time: 0.0004426982125953974
+model 1 Acc 0.9965308863025962
+test std: 0.001113135
+train std: 0.0019349673604341143
+test bacc: 0.9898677050709976
+train bacc: 0.9955442090248392
+Average train time: 130.164124584198
+Average test time: 3.570239442543717e-05
+model 0 Acc 0.9659803043867502
+test std: 0.0034152445965828
+train std: 0.00171625411653963
+test bacc: 0.9009804193288413
+train bacc: 0.9014519455423523
+Average train time: 0.21998167037963867
+Average test time: 4.0462667379729093e-07
+"MGENIA origin on REAL, opcode origin_12 nT: 10 d: 8 w: 6"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.01010690405364536"
+Channel 0 Doc2Vec Runtime(s): 16861.655007362366
+WGEVIA finished in 40034.20350623131 s
+model 2 Acc 0.9969225604297225
+test std: 0.0012317034
+train std: 0.0005804542967074443
+test bacc: 0.9908094179164418
+train bacc: 0.9968033814757481
+Average train time: 140.72683155536652
+Average test time: 3.5284453168102086e-05
+model 3 Acc 0.9977059086839749
+test std: 0.0012373290904583955
+train std: 9.552879264410214e-05
+test bacc: 0.9938986001540108
+train bacc: 0.9999454874993733
+Average train time: 104.23101923465728
+Average test time: 0.00048569432112026065
+model 1 Acc 0.9971463742166518
+test std: 0.000983769
+train std: 0.0012448443416265143
+test bacc: 0.9918987425351782
+train bacc: 0.9960075920215841
+Average train time: 129.72173728942872
+Average test time: 3.517998471014623e-05
+model 0 Acc 0.9559086839749329
+test std: 0.005013548908016301
+train std: 0.0015036371553538426
+test bacc: 0.8620891664778214
+train bacc: 0.8657031503871757
+Average train time: 0.21879394054412843
+Average test time: 6.461811137546617e-07
+"MGENIA origin on REAL, opcode origin_12 nT: 2 d: 2 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.006004048226236123"
+Channel 0 Doc2Vec Runtime(s): 6389.181245088577
+WGEVIA finished in 6559.756146430969 s
+model 2 Acc 0.9126566696508505
+test std: 0.005440889
+train std: 0.026647536286029214
+test bacc: 0.639760769749545
+train bacc: 0.6485944570975011
+Average train time: 142.66144587993622
+Average test time: 3.555547125081873e-05
+model 3 Acc 0.897996866606983
+test std: 0.005104933284054215
+train std: 0.0004381003830530704
+test bacc: 0.5035403050108932
+train bacc: 0.503813381432227
+Average train time: 149.59867510795593
+Average test time: 9.506428624926918e-05
+model 1 Acc 0.9020814682184423
+test std: 0.0056109605
+train std: 0.003693981717459617
+test bacc: 0.5369249526256554
+train bacc: 0.5372721182627245
+Average train time: 120.01163656711579
+Average test time: 3.2858078265900525e-05
+model 0 Acc 0.8943039391226499
+test std: 0.004471628917417433
+train std: 0.0002583853039436752
+test bacc: 0.49834746819655773
+train bacc: 0.49837854209373844
+Average train time: 0.0274935245513916
+Average test time: 1.7607999249798374e-07
+"MGENIA origin on REAL, opcode origin_12 nT: 3 d: 2 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.006775186959930905"
+Channel 0 Doc2Vec Runtime(s): 7779.747031211853
+WGEVIA finished in 7974.8982038497925 s
+model 2 Acc 0.9152864816472694
+test std: 0.0046466077
+train std: 0.033410714162124676
+test bacc: 0.6518368800916892
+train bacc: 0.6720697648529571
+Average train time: 131.04322793483735
+Average test time: 3.2061072923672245e-05
+model 3 Acc 0.8972694717994628
+test std: 0.00672518536564567
+train std: 0.0
+test bacc: 0.5
+train bacc: 0.5
+Average train time: 141.9837208509445
+Average test time: 0.00011086764757485007
+model 1 Acc 0.9002350044762757
+test std: 0.007909794
+train std: 0.01665546658998595
+test bacc: 0.5317964454704583
+train bacc: 0.5364421574501138
+Average train time: 119.1634471654892
+Average test time: 3.157002158562123e-05
+model 0 Acc 0.8966539838854073
+test std: 0.005284334167045826
+train std: 0.00015224904797209448
+test bacc: 0.4996570217011724
+train bacc: 0.49982326482079265
+Average train time: 0.046830153465270995
+Average test time: 1.7162345196829535e-06
+"MGENIA origin on REAL, opcode origin_12 nT: 4 d: 2 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.006857889031552799"
+Channel 0 Doc2Vec Runtime(s): 7897.913195610046
+WGEVIA finished in 8094.575402021408 s
+model 2 Acc 0.9536145926589078
+test std: 0.005540787
+train std: 0.023714537273215243
+test bacc: 0.8485120760424123
+train bacc: 0.8735484087092024
+Average train time: 143.29777114391328
+Average test time: 3.4720533245490386e-05
+model 3 Acc 0.9058303491495077
+test std: 0.006010850586781608
+train std: 0.0013949849623776074
+test bacc: 0.5438370284506918
+train bacc: 0.5465159996829135
+Average train time: 26.393542456626893
+Average test time: 9.185566193180942e-05
+model 1 Acc 0.9169091316025068
+test std: 0.00500408
+train std: 0.021878528590932905
+test bacc: 0.6324843856225454
+train bacc: 0.6421842685527659
+Average train time: 130.65914232730864
+Average test time: 3.574837913178462e-05
+model 0 Acc 0.8972694717994628
+test std: 0.005989952595797205
+train std: 0.0007376295551116296
+test bacc: 0.5144690785601678
+train bacc: 0.5144702129076247
+Average train time: 0.061664032936096194
+Average test time: 2.73959307252376e-06
+"MGENIA origin on REAL, opcode origin_12 nT: 5 d: 2 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.0069328459011409145"
+Channel 0 Doc2Vec Runtime(s): 8400.716581821442
+WGEVIA finished in 10688.247596263885 s
+model 2 Acc 0.9513205013428827
+test std: 0.0036552737
+train std: 0.033961562635602356
+test bacc: 0.8583266626126075
+train bacc: 0.9106650474762519
+Average train time: 141.80444469451905
+Average test time: 3.496600929677135e-05
+model 3 Acc 0.9150067144136079
+test std: 0.004658037646760972
+train std: 0.005110911093050429
+test bacc: 0.606103383400421
+train bacc: 0.6195715798216568
+Average train time: 22.914720463752747
+Average test time: 0.00010236826698720029
+model 1 Acc 0.92591763652641
+test std: 0.0063851485
+train std: 0.03628349688815789
+test bacc: 0.6997213785322893
+train bacc: 0.7192614250126974
+Average train time: 130.5469486951828
+Average test time: 3.6505450811855894e-05
+model 0 Acc 0.8972694717994628
+test std: 0.008729294925964318
+train std: 0.0
+test bacc: 0.5
+train bacc: 0.5
+Average train time: 0.06430568695068359
+Average test time: 7.867164524088622e-07
+"MGENIA origin on REAL, opcode origin_12 nT: 6 d: 2 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.006854647021797371"
+Channel 0 Doc2Vec Runtime(s): 8509.244794368744
+WGEVIA finished in 12723.767471790314 s
+model 2 Acc 0.9120971351835273
+test std: 0.0067180614
+train std: 0.04844950919337383
+test bacc: 0.678033180789846
+train bacc: 0.7542692740162013
+Average train time: 143.38623497486114
+Average test time: 3.5953616479417224e-05
+model 3 Acc 0.8997314234556849
+test std: 0.004484951193568533
+train std: 0.0009140432605750391
+test bacc: 0.5168055969928228
+train bacc: 0.5208016734235187
+Average train time: 31.240675139427186
+Average test time: 0.00011130826045900415
+model 1 Acc 0.9041517457475381
+test std: 0.006467095
+train std: 0.03397324545546989
+test bacc: 0.6007779473309237
+train bacc: 0.6167473447575509
+Average train time: 126.78057076931
+Average test time: 3.603335504159877e-05
+model 0 Acc 0.8945837063563116
+test std: 0.008698554344726047
+train std: 4.458581159813695e-05
+test bacc: 0.4985033674232976
+train bacc: 0.49854491642259563
+Average train time: 0.07090535163879394
+Average test time: 2.849253944059271e-06
+"MGENIA origin on REAL, opcode origin_12 nT: 7 d: 2 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.00712503199344676"
+Channel 0 Doc2Vec Runtime(s): 8562.996732234955
+WGEVIA finished in 14526.294535398483 s
+model 2 Acc 0.9510407341092211
+test std: 0.004141705
+train std: 0.03520206953794464
+test bacc: 0.8309206654308852
+train bacc: 0.8676057493676733
+Average train time: 132.2516454219818
+Average test time: 3.403667692574369e-05
+model 3 Acc 0.9238473589973142
+test std: 0.004479202985778884
+train std: 0.0042800683423060894
+test bacc: 0.6505786136965248
+train bacc: 0.6619275173258579
+Average train time: 22.79936604499817
+Average test time: 0.00011884104161186644
+model 1 Acc 0.9231199641897941
+test std: 0.007996105
+train std: 0.044509566325582436
+test bacc: 0.6950274192435213
+train bacc: 0.7150331801203713
+Average train time: 119.94012036323548
+Average test time: 3.3369775159810186e-05
+model 0 Acc 0.8934086839749329
+test std: 0.008586198496049323
+train std: 0.00011178727938092443
+test bacc: 0.4978485906709903
+train bacc: 0.49794904438781185
+Average train time: 0.06547317504882813
+Average test time: 2.768904224384859e-07
+"MGENIA origin on REAL, opcode origin_12 nT: 8 d: 2 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.007408298211857583"
+Channel 0 Doc2Vec Runtime(s): 9152.47038769722
+WGEVIA finished in 16706.03327178955 s
+model 2 Acc 0.9261974037600716
+test std: 0.0036908959
+train std: 0.03915609557682399
+test bacc: 0.7367734280874568
+train bacc: 0.7857100444146041
+Average train time: 142.01592521667482
+Average test time: 3.483183240175177e-05
+model 3 Acc 0.9059982094897046
+test std: 0.00518483923493551
+train std: 0.003353927901817891
+test bacc: 0.5504416533388112
+train bacc: 0.5569992731068739
+Average train time: 27.911707472801208
+Average test time: 0.00012239506567104995
+model 1 Acc 0.9102506714413607
+test std: 0.0059440257
+train std: 0.02208235926131934
+test bacc: 0.6217805960553895
+train bacc: 0.6352823614222423
+Average train time: 129.876988697052
+Average test time: 3.4514061852802965e-05
+model 0 Acc 0.8952551477170994
+test std: 0.008296136187224749
+train std: 9.27796661599344e-05
+test bacc: 0.49887752556747317
+train bacc: 0.49892944339107376
+Average train time: 0.08571207523345947
+Average test time: 1.9537032915107344e-06
+"MGENIA origin on REAL, opcode origin_12 nT: 9 d: 2 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.006753001905704249"
+Channel 0 Doc2Vec Runtime(s): 8421.136146068573
+WGEVIA finished in 17085.307998418808 s
+model 2 Acc 0.9594337511190689
+test std: 0.0049959715
+train std: 0.021112878457812293
+test bacc: 0.8642946480440794
+train bacc: 0.9015220332834973
+Average train time: 143.78406455516816
+Average test time: 3.377636682911266e-05
+model 3 Acc 0.9335273052820053
+test std: 0.007454792345989808
+train std: 0.0032544686238222525
+test bacc: 0.7051675940462935
+train bacc: 0.7213278602780431
+Average train time: 21.843915486335753
+Average test time: 0.00010803117154874393
+model 1 Acc 0.9331356311548792
+test std: 0.007698549
+train std: 0.037833259645319126
+test bacc: 0.733646340939857
+train bacc: 0.7486268427284061
+Average train time: 131.86061799526215
+Average test time: 3.4898137356011266e-05
+model 0 Acc 0.8963182632050134
+test std: 0.006996602938338591
+train std: 0.0035195822071332045
+test bacc: 0.5279257971307477
+train bacc: 0.5287533591926166
+Average train time: 0.09497764110565185
+Average test time: 2.714074956400699e-07
+"MGENIA origin on REAL, opcode origin_12 nT: 10 d: 2 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.006747321828519433"
+Channel 0 Doc2Vec Runtime(s): 8376.04853439331
+WGEVIA finished in 19472.5032851696 s
+model 2 Acc 0.9375
+test std: 0.0046767592
+train std: 0.026549222926585386
+test bacc: 0.7794856045575016
+train bacc: 0.8149050587092856
+Average train time: 141.99083976745607
+Average test time: 3.280876633888695e-05
+model 3 Acc 0.9042636526410027
+test std: 0.008341900949932328
+train std: 0.002329765383317157
+test bacc: 0.5388644205222346
+train bacc: 0.5475998517208882
+Average train time: 27.95360677242279
+Average test time: 0.00013527108351275548
+model 1 Acc 0.9098589973142346
+test std: 0.0060049235
+train std: 0.04769316576821443
+test bacc: 0.6401309879568357
+train bacc: 0.6547741175366388
+Average train time: 128.51953735351563
+Average test time: 3.5467505903177367e-05
+model 0 Acc 0.8958146821844225
+test std: 0.008836233880522255
+train std: 3.7717691775621045e-05
+test bacc: 0.49918932402095284
+train bacc: 0.4991962346427677
+Average train time: 0.10163321495056152
+Average test time: 9.85143502504951e-07
+"MGENIA origin on REAL, opcode origin_12 nT: 11 d: 2 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.007456037049968006"
+Channel 0 Doc2Vec Runtime(s): 8378.275262355804
+WGEVIA finished in 20992.12533402443 s
+model 2 Acc 0.9496978513876455
+test std: 0.00617492
+train std: 0.02375998789406043
+test bacc: 0.8523582696014578
+train bacc: 0.899316324709781
+Average train time: 142.98817596435546
+Average test time: 3.5374759567414e-05
+model 3 Acc 0.9214973142345568
+test std: 0.009402104474714481
+train std: 0.004076241918185653
+test bacc: 0.632147317229045
+train bacc: 0.6495083145200342
+Average train time: 24.55899121761322
+Average test time: 0.0001309886732694439
+model 1 Acc 0.9237914055505819
+test std: 0.0046604285
+train std: 0.030719734857810932
+test bacc: 0.7033595705957891
+train bacc: 0.7249343540324924
+Average train time: 129.56912245750428
+Average test time: 3.581686270013575e-05
+model 0 Acc 0.896765890778872
+test std: 0.006857245145203776
+train std: 0.0007278548939894664
+test bacc: 0.5221464531601283
+train bacc: 0.5221846725362106
+Average train time: 0.1074559211730957
+Average test time: 3.545219075337144e-07
+"MGENIA origin on REAL, opcode origin_12 nT: 12 d: 2 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.00685164157631361"
+Channel 0 Doc2Vec Runtime(s): 8391.079110145569
+WGEVIA finished in 22169.768074035645 s
+model 2 Acc 0.9650290957923008
+test std: 0.0047064936
+train std: 0.022889560576961007
+test bacc: 0.8956273357712032
+train bacc: 0.9256457341035883
+Average train time: 142.29796860218048
+Average test time: 3.50357170530391e-05
+model 3 Acc 0.9460049239033125
+test std: 0.005421462121486979
+train std: 0.0018005480166784372
+test bacc: 0.7731319808209307
+train bacc: 0.7978632299074666
+Average train time: 22.634313106536865
+Average test time: 0.00012379959210264484
+model 1 Acc 0.9345904207699194
+test std: 0.006611219
+train std: 0.06759188794773428
+test bacc: 0.7643597792765842
+train bacc: 0.7872256137625084
+Average train time: 131.11855647563934
+Average test time: 3.4550637730449686e-05
+model 0 Acc 0.8969337511190689
+test std: 0.006511669205593971
+train std: 0.0010325337195150085
+test bacc: 0.5176581178187857
+train bacc: 0.518121010613541
+Average train time: 0.11252391338348389
+Average test time: 3.185728200100951e-07
+"MGENIA origin on REAL, opcode origin_12 nT: 2 d: 4 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.006111530568734171"
+Channel 0 Doc2Vec Runtime(s): 6606.650731801987
+WGEVIA finished in 6779.662407398224 s
+model 2 Acc 0.9856759176365264
+test std: 0.0027778393
+train std: 0.010646761130992334
+test bacc: 0.9621151972332405
+train bacc: 0.9711936783805177
+Average train time: 144.05370347499849
+Average test time: 3.451321355689044e-05
+model 3 Acc 0.9709042076991943
+test std: 0.0033361559213859597
+train std: 0.0028657359830826525
+test bacc: 0.9015538839354372
+train bacc: 0.908401689851889
+Average train time: 9.275432872772218
+Average test time: 4.620481363951633e-05
+model 1 Acc 0.972079230080573
+test std: 0.0032980489
+train std: 0.019575480903574357
+test bacc: 0.9227065219813155
+train bacc: 0.9328630081018101
+Average train time: 131.51625158786774
+Average test time: 3.488543955622086e-05
+model 0 Acc 0.8972135183527306
+test std: 0.008040730319606428
+train std: 0.005280015379667883
+test bacc: 0.6299493758868254
+train bacc: 0.6331408504872138
+Average train time: 0.06232540607452393
+Average test time: 1.7945252092906867e-06
+"MGENIA origin on REAL, opcode origin_12 nT: 3 d: 4 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.006531335580210229"
+Channel 0 Doc2Vec Runtime(s): 7444.659994602203
+WGEVIA finished in 7631.9338722229 s
+model 2 Acc 0.9894247985675918
+test std: 0.0029433966
+train std: 0.005023186581397635
+test bacc: 0.9750560557916801
+train bacc: 0.9843813103927109
+Average train time: 142.82995636463164
+Average test time: 3.445509880251268e-05
+model 3 Acc 0.9887533572068039
+test std: 0.0015505877866760357
+train std: 0.0007022611332390407
+test bacc: 0.9674473583674206
+train bacc: 0.9746874409511715
+Average train time: 4.309937906265259
+Average test time: 2.5284125100323926e-05
+model 1 Acc 0.9869628469113697
+test std: 0.0030634312
+train std: 0.008385220502746368
+test bacc: 0.9678965111723024
+train bacc: 0.9738678938103185
+Average train time: 130.2835129737854
+Average test time: 3.557417357746453e-05
+model 0 Acc 0.9165174574753805
+test std: 0.006979300406516172
+train std: 0.003633386006270259
+test bacc: 0.7644170442213082
+train bacc: 0.7658205471570207
+Average train time: 0.06985735893249512
+Average test time: 1.5699178836561316e-06
+"MGENIA origin on REAL, opcode origin_12 nT: 4 d: 4 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.006759702972567497"
+Channel 0 Doc2Vec Runtime(s): 8207.686257839203
+WGEVIA finished in 8403.142434835434 s
+model 2 Acc 0.9914950760966875
+test std: 0.0025128808
+train std: 0.006636765588453937
+test bacc: 0.9769331639975631
+train bacc: 0.9829244888166124
+Average train time: 142.40510900020598
+Average test time: 3.400495049146948e-05
+model 3 Acc 0.9936213070725156
+test std: 0.0016639243618771435
+train std: 0.0007336196526907846
+test bacc: 0.9810118138328194
+train bacc: 0.990154597389709
+Average train time: 3.483498525619507
+Average test time: 2.0554253209350876e-05
+model 1 Acc 0.9886974037600716
+test std: 0.0036665339
+train std: 0.015326408945727593
+test bacc: 0.9637989088820307
+train bacc: 0.9742162867544589
+Average train time: 129.32217745780946
+Average test time: 3.5712684389766735e-05
+model 0 Acc 0.9235675917636527
+test std: 0.005771022747591194
+train std: 0.0021461012865561166
+test bacc: 0.7008233381210359
+train bacc: 0.7027135328545928
+Average train time: 0.08259787559509277
+Average test time: 6.148957062002538e-07
+"MGENIA origin on REAL, opcode origin_12 nT: 5 d: 4 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.0068191238141209285"
+Channel 0 Doc2Vec Runtime(s): 8531.089632987976
+WGEVIA finished in 10973.707405090332 s
+model 2 Acc 0.9937891674127126
+test std: 0.0019286902
+train std: 0.0037045013024908056
+test bacc: 0.9825522612248802
+train bacc: 0.9900507972228778
+Average train time: 141.51501934528352
+Average test time: 3.50998653087368e-05
+model 3 Acc 0.9953558639212176
+test std: 0.0007926158692251984
+train std: 0.0007619685806605223
+test bacc: 0.9863191126066568
+train bacc: 0.995752189491683
+Average train time: 3.0345680952072143
+Average test time: 1.792905050207826e-05
+model 1 Acc 0.9916629364368845
+test std: 0.0011038871
+train std: 0.006157584183631634
+test bacc: 0.976785552224271
+train bacc: 0.9848835611411537
+Average train time: 131.17430291175842
+Average test time: 3.5037174290267315e-05
+model 0 Acc 0.9151745747538048
+test std: 0.0066973062447772775
+train std: 0.0036364630609536062
+test bacc: 0.7441354718767306
+train bacc: 0.7431515222066037
+Average train time: 0.099664306640625
+Average test time: 8.054796903485464e-07
+"MGENIA origin on REAL, opcode origin_12 nT: 6 d: 4 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.006828009561971563"
+Channel 0 Doc2Vec Runtime(s): 8566.16709780693
+WGEVIA finished in 12941.707644701004 s
+model 2 Acc 0.9948522829006267
+test std: 0.0019512653
+train std: 0.0032022321745485208
+test bacc: 0.9870030992358696
+train bacc: 0.9927511452988828
+Average train time: 144.1092460155487
+Average test time: 3.485169053568242e-05
+model 3 Acc 0.9966427931960609
+test std: 0.0007502421422134588
+train std: 0.00037075152776776585
+test bacc: 0.9899300647616935
+train bacc: 0.9966468727456794
+Average train time: 2.9121137857437134
+Average test time: 1.802806326908315e-05
+model 1 Acc 0.9918307967770814
+test std: 0.0031369494
+train std: 0.004109817909523959
+test bacc: 0.9792906048536762
+train bacc: 0.9861690869446453
+Average train time: 131.7315237045288
+Average test time: 3.5632339512849855e-05
+model 0 Acc 0.9001230975828111
+test std: 0.007334192451829327
+train std: 0.003264041440803581
+test bacc: 0.6245773398741721
+train bacc: 0.6258773180733729
+Average train time: 0.10822939872741699
+Average test time: 3.481143274455522e-07
+"MGENIA origin on REAL, opcode origin_12 nT: 7 d: 4 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.006760611756635545"
+Channel 0 Doc2Vec Runtime(s): 8673.365884780884
+WGEVIA finished in 14381.99924325943 s
+model 2 Acc 0.9945165622202328
+test std: 0.002475077
+train std: 0.003660142129387815
+test bacc: 0.9863337175451096
+train bacc: 0.9906914710592643
+Average train time: 141.3335016965866
+Average test time: 3.4949051168719544e-05
+model 3 Acc 0.9968106535362579
+test std: 0.0010333236251011011
+train std: 0.00039337812887787403
+test bacc: 0.9909882095350819
+train bacc: 0.9981385990317688
+Average train time: 2.6566325426101685
+Average test time: 1.6897183612271957e-05
+model 1 Acc 0.9950760966875559
+test std: 0.0018011146
+train std: 0.0034651925819015423
+test bacc: 0.9873689699265976
+train bacc: 0.9921190769914198
+Average train time: 131.9442167520523
+Average test time: 3.6510897787335686e-05
+model 0 Acc 0.9261974037600716
+test std: 0.004229692570264949
+train std: 0.0025688175367907912
+test bacc: 0.7736695784158845
+train bacc: 0.7750223352747947
+Average train time: 0.11532404422760009
+Average test time: 2.711339731129837e-07
+"MGENIA origin on REAL, opcode origin_12 nT: 8 d: 4 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.006834018611971993"
+Channel 0 Doc2Vec Runtime(s): 8667.756174087524
+WGEVIA finished in 16034.469168663025 s
+model 2 Acc 0.993677260519248
+test std: 0.0021525838
+train std: 0.002789034581483244
+test bacc: 0.9803195397501591
+train bacc: 0.9908743529185424
+Average train time: 144.44630408287048
+Average test time: 3.626395244043488e-05
+model 3 Acc 0.9968106535362579
+test std: 0.0013943632986943857
+train std: 0.00036493313112626356
+test bacc: 0.9905059069164097
+train bacc: 0.9985891534728222
+Average train time: 3.3122491121292112
+Average test time: 2.1261721971629746e-05
+model 1 Acc 0.9929498657117278
+test std: 0.0022829322
+train std: 0.0023371123606158047
+test bacc: 0.9801553530699716
+train bacc: 0.9896060207454477
+Average train time: 129.88888776302338
+Average test time: 3.6147604399778914e-05
+model 0 Acc 0.9038719785138765
+test std: 0.009048748153334901
+train std: 0.0033490319573194587
+test bacc: 0.6459584942593761
+train bacc: 0.6468427773285299
+Average train time: 0.12955989837646484
+Average test time: 3.3955651078021983e-07
+"MGENIA origin on REAL, opcode origin_12 nT: 9 d: 4 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.007003470534924"
+Channel 0 Doc2Vec Runtime(s): 8585.646532535553
+WGEVIA finished in 17765.62677335739 s
+model 2 Acc 0.993677260519248
+test std: 0.0018907154
+train std: 0.0033799444178945043
+test bacc: 0.983936809390201
+train bacc: 0.9905171616204658
+Average train time: 142.0535279035568
+Average test time: 3.464435393100955e-05
+model 3 Acc 0.9969785138764548
+test std: 0.0008741909319978737
+train std: 0.0002950429519138903
+test bacc: 0.9910817490711259
+train bacc: 0.9987753954800846
+Average train time: 3.5459691762924193
+Average test time: 2.395490196642798e-05
+model 1 Acc 0.9931177260519248
+test std: 0.0023488107
+train std: 0.004848274133853486
+test bacc: 0.9826604056993768
+train bacc: 0.9903413446697327
+Average train time: 129.44336018562316
+Average test time: 3.604185011134872e-05
+model 0 Acc 0.9250783348254252
+test std: 0.004959560312789895
+train std: 0.0034842217002253313
+test bacc: 0.7884796653064374
+train bacc: 0.7896229973511354
+Average train time: 0.13305320739746093
+Average test time: 5.73733617781067e-07
+"MGENIA origin on REAL, opcode origin_12 nT: 10 d: 4 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.006826275931262714"
+Channel 0 Doc2Vec Runtime(s): 8633.496286869049
+WGEVIA finished in 20146.65927195549 s
+model 2 Acc 0.996307072515667
+test std: 0.0016446221
+train std: 0.003633909103394185
+test bacc: 0.9895018343802697
+train bacc: 0.9922999728974693
+Average train time: 141.9944044828415
+Average test time: 3.51399260391804e-05
+model 3 Acc 0.9967547000895255
+test std: 0.0016177320504185502
+train std: 0.00046161358198146756
+test bacc: 0.9909570296897341
+train bacc: 0.9983606314875481
+Average train time: 3.3709036827087404
+Average test time: 2.3016666002862473e-05
+model 1 Acc 0.9949641897940913
+test std: 0.001480952
+train std: 0.003628853737973191
+test bacc: 0.9873066102359016
+train bacc: 0.9923599811515651
+Average train time: 129.03277554512024
+Average test time: 3.613167435408025e-05
+model 0 Acc 0.9329118173679498
+test std: 0.005085217356398754
+train std: 0.0023457099717053105
+test bacc: 0.8039378038846148
+train bacc: 0.8048620960336784
+Average train time: 0.13913588523864745
+Average test time: 7.232543609817003e-07
+"MGENIA origin on REAL, opcode origin_12 nT: 11 d: 4 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.006777816514618821"
+Channel 0 Doc2Vec Runtime(s): 8733.702984571457
+WGEVIA finished in 21765.6560819149 s
+model 2 Acc 0.9952999104744852
+test std: 0.0018591076
+train std: 0.002132848375503372
+test bacc: 0.9860467814519727
+train bacc: 0.9930911823934115
+Average train time: 140.7229573726654
+Average test time: 3.5725340955230304e-05
+model 3 Acc 0.99613921217547
+test std: 0.0013108363160429816
+train std: 0.00021968451121849009
+test bacc: 0.9894082948442258
+train bacc: 0.9992605771558255
+Average train time: 4.496220993995666
+Average test time: 2.952379289703396e-05
+model 1 Acc 0.9944046553267681
+test std: 0.0016222977
+train std: 0.004082248617987402
+test bacc: 0.9857890552357413
+train bacc: 0.9916599195952391
+Average train time: 129.12360820770263
+Average test time: 3.578670755040272e-05
+model 0 Acc 0.9379476275738585
+test std: 0.003857238185470046
+train std: 0.002513284371035589
+test bacc: 0.8151842857926963
+train bacc: 0.8156497584395789
+Average train time: 0.1503695011138916
+Average test time: 4.2862788006967786e-07
+"MGENIA origin on REAL, opcode origin_12 nT: 12 d: 4 w: 4"
+"Within 0 Channel, Feature Extractor on one graph average used (s) : 0.006780389146070557"
+Channel 0 Doc2Vec Runtime(s): 8771.611486434937
+WGEVIA finished in 23326.478571891785 s
+model 2 Acc 0.9951320501342883
+test std: 0.0014604878
+train std: 0.00269185610557275
+test bacc: 0.9857120906065926
+train bacc: 0.9922982042130449
+Average train time: 141.52433586120605
+Average test time: 3.457080534568792e-05
+model 3 Acc 0.997202327663384
+test std: 0.001031337104597208
+train std: 0.0002432059205954526
+test bacc: 0.9928945276178707
+train bacc: 0.9994468045878724
+Average train time: 5.733286213874817
+Average test time: 4.207175823951597e-05
+model 1 Acc 0.994908236347359
+test std: 0.0017412528
+train std: 0.004157973648854019
+test bacc: 0.984140463369184
+train bacc: 0.9907744507608938
+Average train time: 128.8273972272873
+Average test time: 3.521334776514797e-05
+model 0 Acc 0.9329677708146822
+test std: 0.0031603668091195586
+train std: 0.002883224638976398
+test bacc: 0.8259137528795504
+train bacc: 0.8273918184285037
+Average train time: 0.156369948387146
+Average test time: 3.8496971204392903e-07
+"MGENIA origin on REAL, opcode origin_12 nT: 10 d: 8 w: 4"
+"MGENIA origin on REAL, opcode origin_12 nT: 10 d: 8 w: 4"
+opcode WGEVIAfastProject: 10 d: 8 w: 4
+opcode WGEVIAcoreTrain: 10 d: 8 w: 4

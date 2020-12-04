@@ -1,0 +1,1 @@
+python3 /home/xiaomin/Desktop/GCNWork/src/rc_datamining_dl_1d_cv.py /home/xiaomin/Desktop/GCNWork/dataset/preextractedfeature/simunonabsposTlesscut.csv /home/xiaomin/Desktop/GCNWork/exp/notused.csv 32 '2' /home/xiaomin/Desktop/GCNWork/exp/lastLossBAYESn2vsimu.csv
